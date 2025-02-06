@@ -3,7 +3,9 @@
 # **EXPOSITION : Explore**
 # **DISPOSITIF : Carroussel d'ombre**
 
-!­[façade du centre des sciences](/tp1/img/facade_centre_science.jpg)
+
+![photo](img/facade_centre_science.jpg)
+
 
 https://www.montrealsciencecentre.com/
 
