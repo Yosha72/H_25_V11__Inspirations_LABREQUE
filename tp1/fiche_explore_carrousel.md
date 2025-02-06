@@ -7,7 +7,8 @@ https://www.montrealsciencecentre.com/
 
 # **DISPOSITIF : Carroussel d'ombre**
 Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'exposition permanente du centre des sciences
-
+![photo](img/exp_carrousel_dispositif.jpg)
+![photo](img/exp_carrousel_dispositif_resultat.jpg)
 
 # **DISPOSITIF : Carroussel d'ombre**
 
