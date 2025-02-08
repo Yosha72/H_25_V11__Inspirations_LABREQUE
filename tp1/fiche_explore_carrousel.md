@@ -8,8 +8,10 @@ https://www.montrealsciencecentre.com/
 
 # **DISPOSITIF : Carroussel d'ombre**
 
-Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'exposition permanente du centre des sciences de montréal, je vous présente celui que j'ai choisi.  
+**Année de réalisation** : n'est pas mentionnée ou écrit dans l'expositions
 
+Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'exposition permanente du centre des sciences de montréal, je vous présente celui que j'ai choisi. 
+ 
 ![photo](img/exp_carrousel_dispositif.jpg)
 
 # **Type d'installation** : contemplative et interactive
@@ -18,7 +20,7 @@ Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'expositi
 ![photo](img/exp_carrousel_dispositif_resultat.jpg)
 
  
- Le dispositif qui utilise de la lumières de couleurs à partir d'est projeté en direction de pièce de bois en forme de lapin, buisson et écureuille  
+ Le dispositif qui utilise de la lumières de couleurs à partir de faisceaux projetés en direction de pièces de bois en forme de lapin, buisson et écureuille est installé dans une salle  
 
 
 # **DISPOSITIF : Carroussel d'ombre**
