@@ -31,12 +31,12 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 ## Croquis du fonctionnement et de ma compréhension du dispositif
 
 ## Éléments utilisés
-- Pièces de bois (Écureuil, lapin et buisson)
-- Console de Programmation
-- Couvercle de verre (pour protéger la console)
-- Écran tactile
-- plateforme rotative
-- Surface où le résultat est projeté (Mur)
+- Pièces de bois (```Écureuil```, ```lapin``` et ```buisson```)
+- Console de Programmation (Pour programmer)
+- Couvercle de verre (Pour protéger la console)
+- Écran tactile (Pour l'intéractivité et l'intéraction du destinataire)
+- Plateforme rotative
+- Surface où le résultat est projeté (```Mur```)
 - Électrécité
 
 ## Info sur place
@@ -52,3 +52,5 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 *```Liste des crédits :```* https://youtube.com/shorts/gTr0fDp636w
 
 ![photo](exp_carrousel_credit.jpg)
+
+## Appréciation personnelle
