@@ -20,12 +20,14 @@ Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'expositi
 
 
 ## Technique d'ombrage avec des lumières de couleurs ainsi que les pièces en formes d'animaux
-*Le dispositif qui utilise de la lumières de couleurs programmables, à partir de faisceaux projetés en direction de pièces de bois en forme de lapin, buisson et écureuille est installé dans une salle isolée de la lumière extérieure. L'objectif du placement des éléments est de pouvoir observer Le résultat créé par les nombreux jeux d'ombres et de néons*
+Le dispositif qui utilise de la lumières de couleurs ainsi qu'une plateforme rotative programmables, à partir de faisceaux projetés en direction de pièces de bois en forme de lapin, buisson et écureuille est installé dans une salle isolée de la lumière extérieure. L'objectif du placement des éléments est de pouvoir observer Le résultat programmé sur l'écran tactile, par les nombreux jeux d'ombres et de néons sur les pièces de bois que l'on peut déplacer à notre guise et qui tourne sur la plateforme ronde. 
+
+
 ![photo](exp_carrousel_dispositif_resultat.jpg)
 
 ## Éléments utilisés
 - Pièces de bois (Écureuille, lapin et buisson)
-- r
+- 
 ![photo](exp_carrousel_fiche_information.jpg)
 
 
