@@ -10,7 +10,7 @@ https://www.montrealsciencecentre.com/
 
 **Année de réalisation** : n'est pas mentionnée ou écrit dans l'expositions
 
-Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'exposition <ins>permanente</ins> du centre des sciences de montréal, je vous présente celui que j'ai choisi. 
+Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'exposition ```permanente``` du centre des sciences de montréal, je vous présente celui que j'ai choisi. 
  
 ![photo](img/exp_carrousel_dispositif.jpg)
 
@@ -25,3 +25,6 @@ Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'expositi
 
 # **Éléments utilisé**
 
+![photo](img/exp_carrousel_credit.jpg)
+![photo](img/exp_carrousel_fiche_principe.jpg)
+![photo](img/exp_carrousel_fiche_information.jpg)
