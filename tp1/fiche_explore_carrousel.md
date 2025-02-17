@@ -28,23 +28,26 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 
 ![photo](exp_carrousel_dispositif_resultat.jpg)
 
-## Croquis du fonctionnement et de ma compréhension du dispositif
 
 ## Éléments utilisés
-- Pièces de bois (```Écureuil```, ```lapin``` et ```buisson```)
+- Pièces de bois (*```Écureuil```*, *```lapin```* et *```buisson```*)
 - Console de Programmation (Pour programmer)
 - Couvercle de verre (Pour protéger la console)
 - Écran tactile (Pour l'intéractivité et l'intéraction du destinataire)
 - Plateforme rotative
-- Surface où le résultat est projeté (```Mur```)
+- Surface où le résultat est projeté (*```Mur```*)
 - Électrécité
 
-## Info sur place
+
+## Croquis du fonctionnement et de ma compréhension du dispositif
+
+# Info sur place
 
 ![photo](exp_carrousel_fiche_information.jpg)
 
 
 ## Principes scientifiques et techniques utilisés
+Chacun des principes est mis en oeuvre dans le *```Carrousel d'ombre```*. 
 
 ![photo](exp_carrousel_fiche_principes.jpg)
 
