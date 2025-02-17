@@ -1,1 +1,2 @@
-Sortie pédagogique 01, centre des science de montréal, exposition : EXPLORE, dispositif : CARROUSEL D'OMBRE + MÉDIAS
++ Sortie pédagogique 01, centre des science de montréal, exposition : EXPLORE, dispositif : CARROUSEL D'OMBRE 
+- MÉDIAS (img, etc.)
