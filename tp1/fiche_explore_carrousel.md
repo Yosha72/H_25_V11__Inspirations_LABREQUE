@@ -47,7 +47,8 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 
 
 ## Principes scientifiques et techniques utilisés
-Chacun des principes est mis en oeuvre dans le *```Carrousel d'ombre```*. 
+Chacun des principes est mis en oeuvre dans le *```Carrousel d'ombre```*" même l'eau.
+ Il faut s'hydrater dans une journée =)
 
 ![photo](exp_carrousel_fiche_principes.jpg)
 
@@ -57,3 +58,4 @@ Chacun des principes est mis en oeuvre dans le *```Carrousel d'ombre```*.
 ![photo](exp_carrousel_credit.jpg)
 
 ## Appréciation personnelle
+
