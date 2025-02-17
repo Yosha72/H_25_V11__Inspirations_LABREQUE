@@ -39,11 +39,11 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 ![photo](exp_carrousel_fiche_information.jpg)
 
 
-## Principes scientifiques et techniques
+## Principes scientifiques et techniques utilisés
 
 ![photo](exp_carrousel_fiche_principes.jpg)
 
 ## Crédits
-*```Vidéo des crédits :```* https://youtube.com/shorts/gTr0fDp636w
+*```Liste des crédits :```* https://youtube.com/shorts/gTr0fDp636w
 
 ![photo](exp_carrousel_credit.jpg)
