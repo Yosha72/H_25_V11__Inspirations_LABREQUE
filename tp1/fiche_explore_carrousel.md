@@ -20,7 +20,7 @@ Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'expositi
 
 
 ## Technique d'ombrage avec des lumières de couleurs ainsi que les pièces en formes d'animaux
-Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rotative programmable, à partir de faisceaux projetés en direction de pièces de bois en forme de lapin, buisson et écureuil, est installé dans une salle isolée de la lumière extérieure. L'objectif du placement des éléments est de pouvoir observer le résultat programmé sur l'écran tactile, par les nombreux jeux d'ombres et de néons sur les pièces de bois que l'on peut déplacer à notre guise et qui tournent sur la plateforme ronde. 
+Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rotative programmable, à partir de faisceaux projetés en direction de pièces de bois en forme de lapin, buisson et écureuil, est installé dans une salle isolée de la plupart de la lumière extérieure. L'objectif du placement des éléments est de pouvoir observer le résultat programmé sur l'écran tactile, par les nombreux jeux d'ombres et de néons sur les pièces de bois que l'on peut déplacer à notre guise et qui tournent sur la plateforme ronde. De plus, la projection est divisée selon les différentes lumières, ce qui multiplie et ajoute plusieurs couches d'ombres selon la disposition choisie 
 
 *```Vidéo du dispositif en action :```* https://youtube.com/shorts/7wPxhTO4tKw
 
@@ -35,7 +35,9 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 - Surface où le résultat est projeté (Mur)
 - électrécité
 
-  
+## Info sur place
+Les 
+
 ![photo](exp_carrousel_fiche_information.jpg)
 
 
