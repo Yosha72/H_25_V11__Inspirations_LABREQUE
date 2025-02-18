@@ -2,7 +2,7 @@
 
 # **EXPOSITION : Explore**
 
-![photo](facade_centre_science.jpg)
+![fcsm](facade_centre_science.jpg)
 https://www.montrealsciencecentre.com/
  
 
@@ -16,7 +16,7 @@ N'est pas mentionnée ou écrit dans l'expositions
 
 Dans l'objectif de recherche et d'expérimentation d'un dispositif de l'exposition *```permanente```* du *```centre des sciences de montréal```*, je vous présente celui que j'ai choisi. 
  
-![photo](exp_carrousel_dispositif.jpg)
+![dispositif](exp_carrousel_dispositif.jpg)
 
 
 ## Technique d'ombrage avec des lumières de couleurs ainsi que les pièces en formes d'animaux
@@ -26,7 +26,7 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 
 ## Vue d'ensemble
 
-![photo](exp_carrousel_dispositif_resultat.jpg)
+![resultat](exp_carrousel_dispositif_resultat.jpg)
 
 
 ## Éléments utilisés
@@ -38,25 +38,28 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 - Surface où le résultat est projeté (*```Mur```*)
 - Électrécité (*```Cables```*, *```Courant```*, *```Mur```*)
 - Surface adaptée à la hauteur des visiteurs (```Pour installer correctement les éléments```)
+- Engrenages
 
 
 ## Croquis du fonctionnement selon ma compréhension du dispositif
 
+![croquis](croquis.jpg)
+
 # Info sur place
 
-![photo](exp_carrousel_fiche_information.jpg)
+![fiche-info](exp_carrousel_fiche_information.jpg)
 
 
 ## Principes scientifiques et techniques utilisés
 Voici chacun des principes mis en oeuvre dans le *```Carrousel d'ombre```*. Oui, même l'eau !
 Il faut s'hydrater dans une journée =)
 
-![photo](exp_carrousel_fiche_principes.jpg)
+![principes](exp_carrousel_fiche_principes.jpg)
 
 ## Crédits
 ```Liste des crédits :``` https://youtube.com/shorts/gTr0fDp636w
 
-![photo](exp_carrousel_credit.jpg)
+![credits](exp_carrousel_credit.jpg)
 
 ## Appréciation personnelle
 - ```Choix du dispositif``` : La selection était plus ou moins simple. Le *```Carrousel d'ombre```* est un des seuls dispositifs qui a attiré mon attention due au fait qu'il est dans une salle fermée uniquement pour lui, qu'il est beaucoup plus complexe que les autres systèmes de l'exposition et que j'ai adoré la liberté qu'offre la programmation (choix des couleurs, l'intensité des rayons, etc.) et le déplacement des animaux en bois.  
