@@ -47,15 +47,18 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 
 
 ## Principes scientifiques et techniques utilisés
-Chacun des principes est mis en oeuvre dans le *```Carrousel d'ombre```*" même l'eau.
- Il faut s'hydrater dans une journée =)
+Voici chacun des principes mis en oeuvre dans le *```Carrousel d'ombre```*. Oui, même l'eau !
+Il faut s'hydrater dans une journée =)
 
 ![photo](exp_carrousel_fiche_principes.jpg)
 
 ## Crédits
-*```Liste des crédits :```* https://youtube.com/shorts/gTr0fDp636w
+```Liste des crédits :``` https://youtube.com/shorts/gTr0fDp636w
 
 ![photo](exp_carrousel_credit.jpg)
 
 ## Appréciation personnelle
+- ```Choix du dispositif``` : La selection était plus ou moins simple. Le *```Carrousel d'ombre```* est un des seuls dispositifs qui a attiré mon attention due au fait qu'il est dans une salle fermée uniquement pour lui, qu'il est beaucoup plus complexe que les autres systèmes de l'exposition et que j'ai adoré la liberté qu'offre la programmation (choix des couleurs, l'intensité des rayons, etc.) et le déplacement des animaux en bois.  
+- ```Point(s) fort(s)``` : 
+- ```Point(s) controversé(s)``` :
 
