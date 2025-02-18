@@ -34,9 +34,10 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 - Console de Programmation (Pour programmer)
 - Couvercle de verre (Pour protéger la console)
 - Écran tactile (Pour l'intéractivité et l'intéraction du destinataire)
-- Plateforme rotative
+- Plateforme rotative (*```Moteur électrique```* et *```Plateforme métallique```*)
 - Surface où le résultat est projeté (*```Mur```*)
-- Électrécité
+- Électrécité (*```Cables```*, *```Courant```*, *```Mur```*)
+- Surface adaptée à la hauteur des visiteurs (```Pour installer correctement les éléments```)
 
 
 ## Croquis du fonctionnement selon ma compréhension du dispositif
