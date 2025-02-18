@@ -39,7 +39,7 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 - Électrécité
 
 
-## Croquis du fonctionnement et de ma compréhension du dispositif
+## Croquis du fonctionnement selon ma compréhension du dispositif
 
 # Info sur place
 
@@ -59,6 +59,13 @@ Il faut s'hydrater dans une journée =)
 
 ## Appréciation personnelle
 - ```Choix du dispositif``` : La selection était plus ou moins simple. Le *```Carrousel d'ombre```* est un des seuls dispositifs qui a attiré mon attention due au fait qu'il est dans une salle fermée uniquement pour lui, qu'il est beaucoup plus complexe que les autres systèmes de l'exposition et que j'ai adoré la liberté qu'offre la programmation (choix des couleurs, l'intensité des rayons, etc.) et le déplacement des animaux en bois.  
-- ```Point(s) fort(s)``` : 
-- ```Point(s) controversé(s)``` :
+- ```Point(s) fort(s)``` :
+  1. Liberté de la disposition des éléments
+  2. Beaucoup d'interactivité
+  3. Très bonne visibilité de la console et de ses composantes
+    
+- ```Point(s) à embellir``` :
+  1. Les pièces en bois peuvent être perdues ou volées
+  2. Encombrant à démonter
+  3. Manque d'information sur le fonctionnement et l'utilisation du dispositif
 
