@@ -42,7 +42,7 @@ Le dispositif qui utilise de la lumière de couleurs ainsi qu'une plateforme rot
 
 
 ## Croquis du fonctionnement selon ma compréhension du dispositif
-Selon la programmation sur *```l'écran tactile```*, la *```console```* exécute le code et projette les deux *```faisceaux de lumière```* en direction des *```pièces de bois```* qui tournent en rond sur la *```plateforme```* grâce à un petit *```moteur électrique```* ainsi que des *```engrenages```* ce qui crée l'incrustation des deux couleurs et la silhouette des pièces sous forme d'ombres sur le *```mur```*.
+Selon la programmation sur *```l'écran tactile```*, la *```console```* ( Protègé par un *```couvercle de verre```* ) exécute le code et projette les deux *```faisceaux de lumière```* en direction des *```pièces de bois```* qui tournent en rond sur la *```plateforme```* grâce à un petit *```moteur électrique```* ainsi que des *```engrenages```* ce qui crée l'incrustation des deux couleurs et la silhouette des pièces sous forme d'ombres sur le *```mur```*.
 
 ![croquis](croquis.jpg)
 
