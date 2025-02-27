@@ -10,6 +10,8 @@
 
 4. Émotion(s) ressenties durant, pendant et après l'expérimentation de chacune des installations + *justification*
 
-5. 3 cours du programme (par installation) qui sont des incontournables pour avoir les compétences nécessaires à la création de ce genre de projet
+Et
 
-6. Une technique ou une composante technologique qui sera utilisée dans l'un des projets et que vous ne connaissiez pas. Pour cette partie, v
+- 3 cours du programme qui sont des incontournables pour avoir les compétences nécessaires à la création de ce genre de projet
+
+- Une technique ou une composante technologique qui sera utilisée dans l'un des projets
