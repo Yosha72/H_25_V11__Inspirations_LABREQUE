@@ -9,9 +9,9 @@ Justification : La `liberté` de pouvoir intéragir avec la sphère qui fait év
 
 # C0NDU8
 
-Réalisé par : `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
+Réalisé par : `Kevin Malric`, `Ian Corbin`, `Alexandre Gervais`, `Samuel Desmeules-Voyer` & `Jérémy Roy-Coté`
 
-Émotions attachée(s) au projet : Liberté, 
+Émotions attachée(s) au projet : `Enthousiasme`, `Fébrilité`, `Excitation` & `Anticipation`
 
 Justification : 
 
