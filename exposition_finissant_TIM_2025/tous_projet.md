@@ -19,7 +19,7 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 `Enthousiasme`, `Fébrilité`, `Excitation` & `Anticipation`
 
 ### Justification : 
-À première vue, il est facile d'être `enthousiaste` et `fébrile` à l'idée de jouer à un jeux intéractif dirigé par un vélo stationnaire, mais il aussi simple d'`anticiper` la difficulté de jeux étant donné `excitation`
+À première vue, il est facile d'être `enthousiaste` et `fébrile` à l'idée de jouer à un jeu interactif dirigé par un vélo stationnaire, mais il est aussi simple d'`anticiper` la difficulté du jeu étant donné que celui-ci n'est pas si complexe. Cependant, le projet C0NDU8 est tout-même super `excitant` et extrèmement original
 
 
 
