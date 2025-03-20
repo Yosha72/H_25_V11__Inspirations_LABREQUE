@@ -26,7 +26,7 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 `Enthousiasme`, `Fébrilité`, `Excitation` & `Anticipation`
 
 ### Justification : 
-À première vue, il est facile d'être `enthousiaste` et `fébrile` à l'idée de jouer à un jeu interactif dirigé par un vélo stationnaire, mais il est aussi simple d'`anticiper` la difficulté du jeu étant donné que celui-ci n'est pas si complexe. Cependant, le projet C0NDU8 est tout-même super `excitant` et extrèmement original
+À première vue, il est facile d'être `enthousiaste` et `fébrile` à l'idée de jouer à un jeu interactif dirigé par un vélo stationnaire, mais il est aussi simple d'`anticiper` la difficulté du jeu étant donné que celui-ci n'est pas si complexe. Cependant, le projet C0NDU8 est tout-même super `excitant` et extrèmement original.
        
  
 ![logo_prismatica](https://github.com/user-attachments/assets/300a8b35-3eea-4afe-bb05-940cc40fec8d)
@@ -39,9 +39,11 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 `Vincent Delisle`, `Ikrame Rata` & `Jérémy Duverseau`
 
 ### Émotions attachée(s) au projet : 
-Liberté, 
+`Vitalité`, `Appréciation` & `optimisme`
 
-### Justification : 
+### Justification :
+Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai vraiment `appécié` le fait de pouvoir librement dessiner sur le tableau blanc et d'observé, par la suite, ma composition avec des effects visuel et sensorielle synchronisé. Aussi, mon regard est devenu plus `optimiste` en constatant, à mon arrivé dans la pièce, la quantité de lumière flamboyante qui était amplifié grâce au peu de rayons qu'il y avais habituellement. 
+
 
 
 # Luminatura
