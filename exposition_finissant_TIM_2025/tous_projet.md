@@ -27,6 +27,8 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
        
  
 ![logo_prismatica](https://github.com/user-attachments/assets/300a8b35-3eea-4afe-bb05-940cc40fec8d)
+###### *(Logo du projet Prismatica)* Source : (https://pootpookies.github.io/Prismatica/#/) 
+
 # Prismatica
 
 ### Réalisé par : 
