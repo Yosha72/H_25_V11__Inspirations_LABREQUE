@@ -23,6 +23,6 @@ Et
 3. #### `Prismatica`
 4. #### `Luminatura`
 5. #### `Etheria`
-6. ####  `Fuga`
+6. #### `Fuga`
 7. #### `Arcadia`
 
