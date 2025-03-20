@@ -1,5 +1,6 @@
 
 ![logo_internature](https://github.com/user-attachments/assets/9daea9f6-8565-4d2f-af82-52bc1eee48a4)
+###### `Logo du projet Internature` Source : (https://tprangers.github.io/internature/#/)
 # Internature
 
 ### Réalisé par : 
@@ -14,6 +15,8 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 
 ![logo_c0ndu8](https://github.com/user-attachments/assets/dba65d2c-890a-4792-bb7a-e255d953029e)
+###### `Logo du projet C0NDU8` Source : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
 # C0NDU8
 
 ### Réalisé par :
