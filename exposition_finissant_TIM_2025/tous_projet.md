@@ -85,7 +85,7 @@ Liberté,
 # Fuga
 
 ### Réalisé par : 
-``, ``, ``, `` & ``
+`Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` & `Yavuz-Selim Gucluer`
 
 ### Émotions attachée(s) au projet : 
 Liberté, 
@@ -100,7 +100,7 @@ Liberté,
 # Arcadia
 
 ### Réalisé par : 
-``, ``, ``, `` & ``
+`Anton Nikulin`, `Dominic Yale` & `William Beauvais`
 
 ### Émotions attachée(s) au projet : 
 Liberté, 
