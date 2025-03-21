@@ -6,7 +6,7 @@
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
 
-### Émotions attachée(s) au projet : 
+### Sentiment(s) attachée(s) au projet : 
 `Liberté`, `Bonheur`, `Inspiration`, `Sérénité` & `satisfaction`
 
 ### Justification :
@@ -22,7 +22,7 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 ### Réalisé par :
 `Kevin Malric`, `Ian Corbin`, `Alexandre Gervais`, `Samuel Desmeules-Voyer` & `Jérémy Roy-Coté`
 
-### Émotions attachée(s) au projet : 
+### Sentiment(s) attachée(s) au projet : 
 `Enthousiasme`, `Fébrilité`, `Excitation` & `Anticipation`
 
 ### Justification : 
@@ -39,7 +39,7 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 ### Réalisé par : 
 `Vincent Delisle`, `Ikrame Rata` & `Jérémy Duverseau`
 
-### Émotions attachée(s) au projet : 
+### Sentiment(s) attachée(s) au projet : 
 `Vitalité`, `Appréciation` & `optimisme`
 
 ### Justification :
@@ -54,8 +54,9 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 ### Réalisé par : 
 `Audrey Dandurand`, `Camilia Bouatmani`, `Ihab Mouhajer`, `Justine Rousseau` & `Prethiah Rajaratnam`
 
-### Émotions attachée(s) au projet : 
-, 
+### Sentiment(s) attachée(s) au projet : 
+`Curiosité` & ``
+
 
 ### Justification : 
 
@@ -71,7 +72,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 ### Réalisé par : 
 `Joshua Gonzalez-Barrera`, `Maik Hamel`, `Michael Un Dupré`, `Victor Gileau` & `Pierre-Luc Proulx`  
 
-### Émotions attachée(s) au projet : 
+### Sentiment(s) attachée(s) au projet : 
 Liberté, 
 
 ### Justification : 
@@ -87,7 +88,7 @@ Liberté,
 ### Réalisé par : 
 `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` & `Yavuz-Selim Gucluer`
 
-### Émotions attachée(s) au projet : 
+### Sentiment(s) attachée(s) au projet : 
 Liberté, 
 
 ### Justification : 
@@ -102,7 +103,7 @@ Liberté,
 ### Réalisé par : 
 `Anton Nikulin`, `Dominic Yale` & `William Beauvais`
 
-### Émotions attachée(s) au projet : 
+### Sentiment(s) attachée(s) au projet : 
 Liberté, 
 
 ### Justification : 
