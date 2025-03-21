@@ -52,10 +52,10 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 # Luminatura
 
 ### Réalisé par : 
-``, ``, ``, `` & ``
+`Audrey Dandurand`, `Camilia Bouatmani`, `Ihab Mouhajer`, `Justine Rousseau` & `Prethiah Rajaratnam`
 
 ### Émotions attachée(s) au projet : 
-Liberté, 
+, 
 
 ### Justification : 
 
