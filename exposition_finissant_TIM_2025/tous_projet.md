@@ -61,6 +61,11 @@ Liberté,
 
 
 
+
+
+![logo_etheria](./media/logo_etheria.jpg)
+###### `Logo du projet etheria` Source : (https://ethereal-creators.github.io/Etheria/#/)
+
 # Etheria
 
 ### Réalisé par : 
