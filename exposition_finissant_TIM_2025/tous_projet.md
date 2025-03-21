@@ -64,7 +64,7 @@ Liberté,
 
 
 ![logo_etheria](./media/logo_etheria.jpg)
-###### `Logo du projet etheria` Source : (https://ethereal-creators.github.io/Etheria/#/)
+###### `Logo du projet Etheria` Source : (https://ethereal-creators.github.io/Etheria/#/)
 
 # Etheria
 
@@ -77,6 +77,11 @@ Liberté,
 ### Justification : 
 
 
+
+
+![logo_fuga](./media/logo_fuga.jpg)
+###### `Logo du projet Fuga` Source : (https://escapism-fuga.github.io/Fuga/#/)
+
 # Fuga
 
 ### Réalisé par : 
@@ -87,6 +92,10 @@ Liberté,
 
 ### Justification : 
 
+
+
+![logo_arcadia](./media/logo_arcadia.png)
+###### `Logo du projet Arcadia` Source : (https://cousi-cousa.github.io/Arcadia/#/)
 
 # Arcadia
 
