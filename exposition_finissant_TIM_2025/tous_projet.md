@@ -69,7 +69,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 # Etheria
 
 ### Réalisé par : 
-`Joshua Gonzalez-Barrera`, `Maik Hamel`, `Michael Un Dupré` & `Pierre-Luc Proulx`  
+`Joshua Gonzalez-Barrera`, `Maik Hamel`, `Michael Un Dupré`, `Victor Gileau` & `Pierre-Luc Proulx`  
 
 ### Émotions attachée(s) au projet : 
 Liberté, 
