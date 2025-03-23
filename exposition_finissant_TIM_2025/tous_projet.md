@@ -6,7 +6,7 @@
 
 ![finale_internature](./media/finale_internature.jpg)
 ###### `Installation finale du projet Internature`
-###### Source du projet et des images : (https://tprangers.github.io/internature/#/)
+###### Source du projet : (https://tprangers.github.io/internature/#/)
 
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
@@ -24,10 +24,13 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 # C0NDU8
 
-![finale_internature](./media/finale_ecran_c0ndu8.jpg)
-###### `Installation finale du projet C0NDU8`
+![finale_c0ndu8](./media/finale_ecran_c0ndu8.jpg)
+###### `Installation finale de la projection du projet C0NDU8`
 
-###### Source du projet et des images : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
+![finale_c0ndu8](./media/finale_velo_c0ndu8.png)
+###### `Installation finale du vélo pour le projet C0NDU8`
+
+###### Source du projet : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 
 ### Réalisé par :
@@ -43,7 +46,7 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 ![logo_prismatica](./media/logo_prismatica.png)
 ###### `Logo du projet Prismatica` 
-###### Source du projet et des images : (https://pootpookies.github.io/Prismatica/#/)
+###### Source du projet : (https://pootpookies.github.io/Prismatica/#/)
  
 
 # Prismatica
@@ -60,7 +63,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 ![logo_luminatura](./media/logo_luminatura.png)
 ###### `Logo du projet Luminatura` 
-###### Source du projet et des images : (https://miaou-mafia.github.io/projet-luminatura/#/)
+###### Source du projet : (https://miaou-mafia.github.io/projet-luminatura/#/)
 
 # Luminatura
 
@@ -79,7 +82,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 ![logo_etheria](./media/logo_etheria.jpg)
 ###### `Logo du projet Etheria` 
-###### Source du projet et des images : (https://ethereal-creators.github.io/Etheria/#/)
+###### Source du projet : (https://ethereal-creators.github.io/Etheria/#/)
 
 # Etheria
 
@@ -96,7 +99,7 @@ Liberté,
 
 ![logo_fuga](./media/logo_fuga.jpg)
 ###### `Logo du projet Fuga` 
-###### Source du projet et des images : (https://escapism-fuga.github.io/Fuga/#/)
+###### Source du projet : (https://escapism-fuga.github.io/Fuga/#/)
 
 # Fuga
 
@@ -112,7 +115,7 @@ Liberté,
 
 ![logo_arcadia](./media/logo_arcadia.png)
 ###### `Logo du projet Arcadia`
-###### Source du projet et des images : (https://cousi-cousa.github.io/Arcadia/#/)
+###### Source du projet : (https://cousi-cousa.github.io/Arcadia/#/)
 
 # Arcadia
 
