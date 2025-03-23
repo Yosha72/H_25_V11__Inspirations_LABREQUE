@@ -7,14 +7,6 @@
 
 # Internature
 
-![plantation_serre_internature](./media/finale_internature.jpg)
-###### `Installation finale du projet Internature`
-
-![finale_internature](./media/finale_internature.jpg)
-###### `Installation finale du projet Internature`
-
-###### Source du projet : (https://tprangers.github.io/internature/#/)
-
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
 
@@ -23,6 +15,17 @@
 
 ### Justification :
 La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressivement la projection immersive de la nature amène une certaine `satisfaction` et `sérénité`. Le fait que nous avons le controle de notre environnement ainsi que l'`inspiration` des particules qui se déplace en harmonie dans l'espace fix donné par le tunnel permet d'apprécier réelement la magie et le `bonheur` derrière la créativité de ce projet.
+
+
+![finale_internature](./media/finale_internature.jpg)
+###### `Installation finale du projet Internature`
+
+![plantation_serre_internature](./media/plantation_serre_internature.jpg)
+###### `Installation finale du projet Internature`
+
+###### Source du projet : (https://tprangers.github.io/internature/#/)
+
+
 
 
 
