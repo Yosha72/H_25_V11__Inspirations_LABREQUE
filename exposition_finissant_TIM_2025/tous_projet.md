@@ -4,8 +4,12 @@
 
 # Internature
 
+![plantation_serre_internature](./media/finale_internature.jpg)
+###### `Installation finale du projet Internature`
+
 ![finale_internature](./media/finale_internature.jpg)
 ###### `Installation finale du projet Internature`
+
 ###### Source du projet : (https://tprangers.github.io/internature/#/)
 
 ### Réalisé par : 
@@ -24,10 +28,10 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 # C0NDU8
 
-![finale_c0ndu8](./media/finale_ecran_c0ndu8.jpg)
-###### `Installation finale de la projection du projet C0NDU8`
+![finale_ecran_c0ndu8](./media/finale_ecran_c0ndu8.jpg)
+###### `Installation finale de la projection du jeu interactif du projet C0NDU8`
 
-![finale_c0ndu8](./media/finale_velo_c0ndu8.png)
+![finale_velo_c0ndu8](./media/finale_velo_c0ndu8.png)
 ###### `Installation finale du vélo pour le projet C0NDU8`
 
 ###### Source du projet : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
