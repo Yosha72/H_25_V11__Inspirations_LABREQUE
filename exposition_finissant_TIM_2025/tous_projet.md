@@ -66,8 +66,6 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 ![logo_prismatica](./media/logo_prismatica.png)
 ###### `Logo du projet Prismatica` 
-###### Source du projet : (https://pootpookies.github.io/Prismatica/#/)
- 
 
 # Prismatica
 
@@ -79,6 +77,16 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 ### Justification :
 Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai vraiment `appécié` le fait de pouvoir librement dessiner sur le tableau blanc et d'observé, par la suite, ma composition avec des effects visuel et sensorielle synchronisé. Aussi, mon regard est devenu plus `optimiste` en constatant, à mon arrivée dans la pièce, la quantité de lumière flamboyante qui était amplifiée grâce au peu de rayons qu'il y avait habituellement. 
+
+![finale_prismatica](./media/finale_prismatica.jpg)
+###### `Installation finale du projet Prismatica`
+
+![plantation_prismatica](./media/plantation_prismatica.png)
+###### `Plantation du projet Prismatica`
+
+###### Source du projet : (https://pootpookies.github.io/Prismatica/#/)
+
+#
 
 
 ![logo_luminatura](./media/logo_luminatura.png)
