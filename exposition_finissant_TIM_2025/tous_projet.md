@@ -24,8 +24,9 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 # C0NDU8
 
-![finale_internature](./media/finale_c0ndu8.png)
-###### `Installation finale du projet Internature`
+![finale_internature](./media/finale_ecran_c0ndu8.jpg)
+###### `Installation finale du projet C0NDU8`
+
 ###### Source du projet et des images : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 
