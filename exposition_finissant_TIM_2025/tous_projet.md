@@ -21,7 +21,10 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 ###### `Installation finale du projet Internature`
 
 ![plantation_serre_internature](./media/plantation_serre_internature.jpg)
-###### `Installation finale du projet Internature`
+###### `Plantation de la serre pour le projet Internature`
+
+![plantation_sphere_internature](./media/plantation_sphere_internature.jpg)
+###### `Plantation de la sphere pour le projet Internature`
 
 ###### Source du projet : (https://tprangers.github.io/internature/#/)
 
