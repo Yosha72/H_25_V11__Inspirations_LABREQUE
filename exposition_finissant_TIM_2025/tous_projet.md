@@ -157,9 +157,11 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` & `Yavuz-Selim Gucluer`
 
 ### Sentiment(s) attachée(s) au projet : 
-``, `` & `` 
+`Esprit de croissance` & `Émerveillement` 
 
 ### Justification : 
+
+
 
 ![finale_fuga](./media/finale_fuga.jpg)
 ###### `Installation finale du projet Fuga`
@@ -196,3 +198,8 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 ###### Source du projet : (https://cousi-cousa.github.io/Arcadia/#/)
 
 #
+
+## Cours incontournables du programme pour avoir les compétences pour créer ce genre de projet
+
+
+
