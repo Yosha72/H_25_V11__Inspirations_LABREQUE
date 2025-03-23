@@ -1,6 +1,7 @@
 
 # **`Voici une présentation abrégée des projets des finissants en TIM de 2025`**
-   
+
+
    
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
@@ -28,6 +29,8 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 ###### Source du projet : (https://tprangers.github.io/internature/#/)
 
+#
+
 
 
 
@@ -37,15 +40,6 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 # C0NDU8
 
-![finale_ecran_c0ndu8](./media/finale_ecran_c0ndu8.jpg)
-###### `Installation finale de la projection du jeu interactif du projet C0NDU8`
-
-![finale_velo_c0ndu8](./media/finale_velo_c0ndu8.png)
-###### `Installation finale du vélo pour le projet C0NDU8`
-
-###### Source du projet : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
-
-
 ### Réalisé par :
 `Kevin Malric`, `Ian Corbin`, `Alexandre Gervais`, `Samuel Desmeules-Voyer` & `Jérémy Roy-Coté`
 
@@ -54,6 +48,19 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 ### Justification : 
 À première vue, il est facile d'être `enthousiaste` et `fébrile` à l'idée de jouer à un jeu interactif dirigé par un vélo stationnaire, mais il est aussi simple d'`anticiper` la difficulté du jeu étant donné que celui-ci n'est pas si complexe. Cependant, le projet C0NDU8 est tout-même super `excitant` et extrèmement original.
+
+![finale_ecran_c0ndu8](./media/finale_ecran_c0ndu8.jpg)
+###### `Installation finale de la projection du jeu interactif du projet C0NDU8`
+
+![finale_velo_c0ndu8](./media/finale_velo_c0ndu8.png)
+###### `Installation finale du vélo pour le projet C0NDU8`
+
+![plantation_c0ndu8](./media/plantation_c0ndu8.png)
+###### `Plantation du projet C0NDU8`
+
+###### Source du projet : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
+#
        
 
 
