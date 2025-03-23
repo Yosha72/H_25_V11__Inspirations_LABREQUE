@@ -2,8 +2,11 @@
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
 
-###### Source du projet et des images : (https://tprangers.github.io/internature/#/)
 # Internature
+
+![finale_internature](./media/finale_internature.jpg)
+###### `Installation finale du projet Internature`
+###### Source du projet et des images : (https://tprangers.github.io/internature/#/)
 
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
