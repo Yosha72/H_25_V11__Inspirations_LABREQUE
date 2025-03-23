@@ -199,7 +199,11 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 
 #
 
-## Cours incontournables du programme pour avoir les compétences pour créer ce genre de projet
+## Cours incontournables du programme pour avoir les compétences pour créer ce genre de projet :
+
+   1. `Oeuvres et dispositifs multimédias en exposition` (Pour découvrir, comprendre et explorer les oeuvres multimédias.)
+   2. `Interactivité ludique ` (Pour expérimenter et apprendre à utiliser les logiciels afin de pouvoir réaliser un projet de façon autonome.)
+   3. `Préparation au milieu de travail ` (Pour être à jour dans les techniques et technologies du domaines et développer des habitudes intemporelle pour le marché du travail.)
 
 
 
