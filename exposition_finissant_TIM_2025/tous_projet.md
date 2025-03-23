@@ -129,10 +129,10 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 `Joshua Gonzalez-Barrera`, `Maik Hamel`, `Michael Un Dupré`, `Victor Gileau` & `Pierre-Luc Proulx`  
 
 ### Sentiment(s) attachée(s) au projet : 
-`Attachement` & `Esprit d'équipe`
+`Amusement`, `Attachement` & `Esprit d'équipe`
 
 ### Justification : 
-le principe du jeu 
+À mon avis, le principe du jeu projeté sur une table est vraiment ingénieux, dans son ensemble, car il est physiquement beaucoup plus interactif qu'un jeu vidéo et je trouve l'idée des codes-barres sur les pièces qui représentent les personnages très utile pour l'interaction avec les joueurs. Je me suis senti `attaché` au personnage comme si j'étais celui-ci et le fait que nous étions plusieurs m’a permis de m'`amuser` et de développer davantage mon `esprit d'équipe`.
 
 ![finale_etheria](./media/finale_etheria.jpg)
 ###### `Installation finale du projet Etheria`
