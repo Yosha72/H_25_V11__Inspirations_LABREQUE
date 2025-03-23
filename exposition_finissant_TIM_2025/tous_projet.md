@@ -1,6 +1,8 @@
 
 ![logo_internature](./media/logo_internature.jpg)
-###### `Logo du projet Internature` Source : (https://tprangers.github.io/internature/#/)
+###### `Logo du projet Internature` 
+
+###### Source du projet et des images : (https://tprangers.github.io/internature/#/)
 # Internature
 
 ### Réalisé par : 
@@ -15,7 +17,8 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 
 ![logo_c0ndu8](./media/logo_c0ndu8.png)
-###### `Logo du projet C0NDU8` Source : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
+###### `Logo du projet C0NDU8` 
+###### Source du projet et des images : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 # C0NDU8
 
@@ -31,7 +34,8 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 
 ![logo_prismatica](./media/logo_prismatica.png)
-###### `Logo du projet Prismatica` Source : (https://pootpookies.github.io/Prismatica/#/)
+###### `Logo du projet Prismatica` 
+###### Source du projet et des images : (https://pootpookies.github.io/Prismatica/#/)
  
 
 # Prismatica
@@ -47,7 +51,8 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 
 ![logo_luminatura](./media/logo_luminatura.png)
-###### `Logo du projet Luminatura` Source : (https://miaou-mafia.github.io/projet-luminatura/#/)
+###### `Logo du projet Luminatura` 
+###### Source du projet et des images : (https://miaou-mafia.github.io/projet-luminatura/#/)
 
 # Luminatura
 
@@ -65,7 +70,8 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 
 ![logo_etheria](./media/logo_etheria.jpg)
-###### `Logo du projet Etheria` Source : (https://ethereal-creators.github.io/Etheria/#/)
+###### `Logo du projet Etheria` 
+###### Source du projet et des images : (https://ethereal-creators.github.io/Etheria/#/)
 
 # Etheria
 
@@ -81,7 +87,8 @@ Liberté,
 
 
 ![logo_fuga](./media/logo_fuga.jpg)
-###### `Logo du projet Fuga` Source : (https://escapism-fuga.github.io/Fuga/#/)
+###### `Logo du projet Fuga` 
+###### Source du projet et des images : (https://escapism-fuga.github.io/Fuga/#/)
 
 # Fuga
 
@@ -96,7 +103,8 @@ Liberté,
 
 
 ![logo_arcadia](./media/logo_arcadia.png)
-###### `Logo du projet Arcadia` Source : (https://cousi-cousa.github.io/Arcadia/#/)
+###### `Logo du projet Arcadia`
+###### Source du projet et des images : (https://cousi-cousa.github.io/Arcadia/#/)
 
 # Arcadia
 
