@@ -157,7 +157,7 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 `Abdel Ali Djeral`, `Daniel Dezemma`, `Matis Labelle`, `Tristan Khadka` & `Yavuz-Selim Gucluer`
 
 ### Sentiment(s) attachée(s) au projet : 
-Liberté, 
+``, `` & `` 
 
 ### Justification : 
 
@@ -185,6 +185,12 @@ Liberté,
 `Esprit de compétition` & ``
 
 ### Justification : 
+
+![finale_arcadia](./media/finale_arcadia.jpg)
+###### `Installation finale du projet Arcadia`
+
+![plantation_arcadia](./media/plantation_arcadia.png)
+###### `Plantation du projet Arcadia`
 
 
 ###### Source du projet : (https://cousi-cousa.github.io/Arcadia/#/)
