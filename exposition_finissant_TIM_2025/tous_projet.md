@@ -81,7 +81,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 ![finale_prismatica](./media/finale_prismatica.jpg)
 ###### `Installation finale du projet Prismatica`
 
-![plantation_prismatica](./media/plantation_prismatica.png)
+![plantation_prismatica](./media/plantation_prismatica.jpg)
 ###### `Plantation du projet Prismatica`
 
 ###### Source du projet : (https://pootpookies.github.io/Prismatica/#/)
