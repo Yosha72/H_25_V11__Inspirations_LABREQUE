@@ -129,9 +129,10 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 `Joshua Gonzalez-Barrera`, `Maik Hamel`, `Michael Un Dupré`, `Victor Gileau` & `Pierre-Luc Proulx`  
 
 ### Sentiment(s) attachée(s) au projet : 
-`` & ``
+`Attachement` & `Esprit d'équipe`
 
 ### Justification : 
+le principe du jeu 
 
 ![finale_etheria](./media/finale_etheria.jpg)
 ###### `Installation finale du projet Etheria`
@@ -181,7 +182,7 @@ Liberté,
 `Anton Nikulin`, `Dominic Yale` & `William Beauvais`
 
 ### Sentiment(s) attachée(s) au projet : 
-Liberté, 
+`Esprit de compétition` & ``
 
 ### Justification : 
 
