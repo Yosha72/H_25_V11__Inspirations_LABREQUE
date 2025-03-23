@@ -89,6 +89,8 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 #
 
 
+
+
 ![logo_luminatura](./media/logo_luminatura.png)
 ###### `Logo du projet Luminatura` 
 
@@ -103,10 +105,17 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 
 ### Justification : 
+![finale_luminatura](./media/finale_luminatura.jpg)
+###### `Installation finale du projet Luminatura`
+
+![plantation_luminatura](./media/plantation_luminatura.jpg)
+###### `Plantation du projet Luminatura`
 
 ###### Source du projet : (https://miaou-mafia.github.io/projet-luminatura/#/)
 
 #
+
+
 
 
 ![logo_etheria](./media/logo_etheria.jpg)
@@ -119,9 +128,15 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 `Joshua Gonzalez-Barrera`, `Maik Hamel`, `Michael Un Dupré`, `Victor Gileau` & `Pierre-Luc Proulx`  
 
 ### Sentiment(s) attachée(s) au projet : 
-Liberté, 
+`` & ``
 
 ### Justification : 
+
+![finale_etheria](./media/finale_etheria.jpg)
+###### `Installation finale du projet Etheria`
+
+![plantation_etheria](./media/plantation_etheria.jpg)
+###### `Plantation du projet Etheria`
 
 ###### Source du projet : (https://ethereal-creators.github.io/Etheria/#/)
 
@@ -147,7 +162,6 @@ Liberté,
 ###### Source du projet : (https://escapism-fuga.github.io/Fuga/#/)
 
 #
-
 
 
 ![logo_arcadia](./media/logo_arcadia.png)
