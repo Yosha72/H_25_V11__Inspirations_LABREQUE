@@ -21,9 +21,13 @@ La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressi
 
 ![logo_c0ndu8](./media/logo_c0ndu8.png)
 ###### `Logo du projet C0NDU8` 
-###### Source du projet et des images : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
 
 # C0NDU8
+
+![finale_internature](./media/finale_c0ndu8.png)
+###### `Installation finale du projet Internature`
+###### Source du projet et des images : (https://gearshift-games.github.io/Web-C0N-DU8/#/)
+
 
 ### Réalisé par :
 `Kevin Malric`, `Ian Corbin`, `Alexandre Gervais`, `Samuel Desmeules-Voyer` & `Jérémy Roy-Coté`
