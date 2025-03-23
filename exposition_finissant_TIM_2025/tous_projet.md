@@ -91,7 +91,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 ![logo_luminatura](./media/logo_luminatura.png)
 ###### `Logo du projet Luminatura` 
-###### Source du projet : (https://miaou-mafia.github.io/projet-luminatura/#/)
+
 
 # Luminatura
 
@@ -104,13 +104,14 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 
 ### Justification : 
 
+###### Source du projet : (https://miaou-mafia.github.io/projet-luminatura/#/)
 
-
+#
 
 
 ![logo_etheria](./media/logo_etheria.jpg)
 ###### `Logo du projet Etheria` 
-###### Source du projet : (https://ethereal-creators.github.io/Etheria/#/)
+
 
 # Etheria
 
@@ -122,12 +123,16 @@ Liberté,
 
 ### Justification : 
 
+###### Source du projet : (https://ethereal-creators.github.io/Etheria/#/)
+
+#
+
 
 
 
 ![logo_fuga](./media/logo_fuga.jpg)
 ###### `Logo du projet Fuga` 
-###### Source du projet : (https://escapism-fuga.github.io/Fuga/#/)
+
 
 # Fuga
 
@@ -139,11 +144,15 @@ Liberté,
 
 ### Justification : 
 
+###### Source du projet : (https://escapism-fuga.github.io/Fuga/#/)
+
+#
+
 
 
 ![logo_arcadia](./media/logo_arcadia.png)
 ###### `Logo du projet Arcadia`
-###### Source du projet : (https://cousi-cousa.github.io/Arcadia/#/)
+
 
 # Arcadia
 
@@ -154,3 +163,8 @@ Liberté,
 Liberté, 
 
 ### Justification : 
+
+
+###### Source du projet : (https://cousi-cousa.github.io/Arcadia/#/)
+
+#
