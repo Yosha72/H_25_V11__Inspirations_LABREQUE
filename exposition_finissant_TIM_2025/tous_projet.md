@@ -160,6 +160,12 @@ Liberté,
 
 ### Justification : 
 
+![finale_fuga](./media/finale_fuga.jpg)
+###### `Installation finale du projet Fuga`
+
+![plantation_fuga](./media/plantation_fuga.png)
+###### `Plantation du projet Fuga`
+
 ###### Source du projet : (https://escapism-fuga.github.io/Fuga/#/)
 
 #
