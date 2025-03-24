@@ -159,7 +159,8 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 ### Sentiment(s) attachée(s) au projet : 
 `Esprit de croissance` & `Émerveillement` 
 
-### Justification : 
+### Justification :
+
 
 
 
