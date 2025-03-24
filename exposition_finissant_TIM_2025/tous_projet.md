@@ -104,7 +104,7 @@ Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai v
 `Surprise`, `Curiosité` & `Intrigue`
 
 ### Justification : 
-Face à l'installation des pupitres et l'`intriguant` décor qui lui était associé, j'ai testé, par `curiosité`, des manières de comprendre le fonctionnement du projet sans succès. Cependant, j'ai `surprenantement` découvert que l'interaction avec les pupitres changeait l'ambiance du décor et ses couleurs selon la façon dont je touchais ceux-ci et selon celui avec qui je choisissais d'interagir.
+Face à l'installation des pupitres et l'`intriguant` décor qui lui était associé, j'ai testé, par `curiosité`, des manières de comprendre le fonctionnement du projet sans succès. Cependant, j'ai `surprenamment` découvert que l'interaction avec les pupitres changeait l'ambiance du décor et ses couleurs selon la façon dont je touchais ceux-ci et selon celui avec qui je choisissais d'interagir.
 
 ![finale_luminatura](./media/finale_luminatura.jpg)
 ###### `Installation finale du projet Luminatura`
