@@ -221,7 +221,12 @@ Tout comme les codes QR (`Quick Response code`), les `marqueurs` sont des `mots 
 ![composante_exemple_marqueur](./media/composante_exemple_marqueur.png)
 ###### `Exemple d'un marqueur.png`
 
+###### Source : (https://studentrobotics.org/docs/programming/vision/markers)
+
 ![composante_exemple_code_qr](./media/composante_exemple_code_qr.jpg)
 ###### `Exemple d'un code QR qui est scanné`
+
+###### Source : (https://merchant.me-grow.com/the-rise-of-contactless-tech-qr-codes-for-enhanced-customer-experience/)
+
 
 #
