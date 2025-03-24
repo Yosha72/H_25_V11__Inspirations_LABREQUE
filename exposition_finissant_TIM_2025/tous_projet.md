@@ -15,7 +15,7 @@
 `Liberté`, `Bonheur`, `Inspiration`, `Sérénité` & `satisfaction`
 
 ### Justification :
-La `liberté` de pouvoir intéragir avec la sphère qui fait évoluer  progressivement la projection immersive de la nature amène une certaine `satisfaction` et `sérénité`. Le fait que nous avons le controle de notre environnement ainsi que l'`inspiration` des particules qui se déplace en harmonie dans l'espace fix donné par le tunnel permet d'apprécier réelement la magie et le `bonheur` derrière la créativité de ce projet.
+La `liberté` de pouvoir interagir avec la sphère qui fait évoluer  progressivement la projection immersive de la nature amène une certaine `satisfaction` et `sérénité`. Le fait que nous avons le contrôle de notre environnement ainsi que l'`inspiration` des particules qui se déplacent en harmonie dans l'espace restreint donné par le tunnel permet d'apprécier réellement la magie et le `bonheur` derrière la créativité de ce projet.
 
 
 ![finale_internature](./media/finale_internature.jpg)
