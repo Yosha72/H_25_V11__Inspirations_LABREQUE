@@ -216,4 +216,10 @@ Durant ma première expérimentation d'Arcadia, j'ai `accompli` l'objectif de l'
 
 #### Détails :
 
+![composante_exemple_marqueur](./media/composante_exemple_marqueur.png)
+###### `Exemple d'un marqueur.png`
+
+![composante_exemple_code_qr](./media/composante_exemple_code_qr.jpg)
+###### `Exemple d'un code QR qui est scanné`
+
 #
