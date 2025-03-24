@@ -221,7 +221,7 @@ Tout comme les codes QR (`Quick Response code`), les `marqueurs` sont des `mots 
 ###### `Installation finale du projet Etheria`
 
 ![composante_exemple_marqueur](./media/composante_exemple_marqueur.png)
-###### `Exemple d'un marqueur.png`
+###### `Exemple d'un marqueur`
 
 ###### Source : (https://studentrobotics.org/docs/programming/vision/markers)
 
