@@ -215,7 +215,7 @@ Durant ma première expérimentation d'Arcadia, j'ai `accompli` l'objectif de l'
 `Marqueur sur les pièces du jeu`
 
 #### Détails :
-Tout comme les codes QR (`Quick Response code`), les `marqueurs` sont des `mots de passe`, des `clés d'accès` et/ou des `identifiants` qui peuvent `stocker` et `envoyer` les `informations` qu'on leur donne. Ils sont simplement des petits `raccourcis protégés et rapides` pour `distribuer plusieurs données`.
+Tout comme les codes QR (`Quick Response code`), les `marqueurs` sont des `mots de passe`, des `clés d'accès` et/ou des `identifiants` qui peuvent `stocker` et `envoyer` les `informations` qu'on leur donne. Ils sont simplement des petits `raccourcis protégés et rapides` pour `distribuer plusieurs données`. Dans le contexte du projet `Etheria`, les marqueurs servent à `détecter les mouvements` des personnages du jeu pour pouvoir `projeter un résultat fiable en temps réel`.
 
 
 ![composante_exemple_marqueur](./media/composante_exemple_marqueur.png)
