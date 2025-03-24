@@ -160,7 +160,7 @@ Face à l'installation des pupitres et l'`intriguant` décor qui lui était asso
 `Constance`, `Esprit de croissance` & `Émerveillement` 
 
 ### Justification :
-Comme les arbres qui poussent et évoluent à travers le temps, le projet Fuga témoigne et reflète un esprit de croissance, un épanouissement de la nature et un regard d'émerveillement par rapport au déploiement aléatoire mais organisé des branches de l'arbre. 
+Comme les arbres qui poussent et évoluent à travers le temps, le projet Fuga témoigne et reflète un `esprit de croissance`, un `épanouissement` de la nature et un regard d'`émerveillement` par rapport au déploiement aléatoire mais organisé des branches de l'arbre. L'évolution est `constante` et imprévisible, ce qui donne un aspect naturel.
 
 
 
