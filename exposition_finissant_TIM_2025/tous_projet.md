@@ -185,9 +185,10 @@ Comme les arbres qui poussent et évoluent à travers le temps, le projet Fuga t
 `Anton Nikulin`, `Dominic Yale` & `William Beauvais`
 
 ### Sentiment(s) attachée(s) au projet : 
-`Esprit de compétition` & ``
+`Motivation`, `Esprit de compétition` & `Accomplissement`
 
 ### Justification : 
+Durant ma première expérimentation d'Arcadia, j'ai `accompli` l'objectif de l'arcade avec sourire et réalisé, par la suite, que le projet avait une communauté en croissance qui était centrée sur l'objectif de finir le jeu le plus rapidement possible. `Motivé` par l'`esprit de compétition` en moi, j'ai essayé de découvrir jusqu'où mes aptitudes de joueur pouvaient me mener.
 
 ![finale_arcadia](./media/finale_arcadia.jpg)
 ###### `Installation finale du projet Arcadia`
