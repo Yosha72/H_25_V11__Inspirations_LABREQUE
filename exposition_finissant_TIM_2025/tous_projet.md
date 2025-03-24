@@ -211,3 +211,7 @@ Durant ma première expérimentation d'Arcadia, j'ai `accompli` l'objectif de l'
 
 ## Présentation d'une composante technologique significative utilisée dans le projet : `Etheria`
 
+#### Composante :  
+`Code barre sur les pièce de jeu`
+
+#
