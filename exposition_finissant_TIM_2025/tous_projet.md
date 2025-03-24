@@ -76,7 +76,7 @@ La `liberté` de pouvoir interagir avec la sphère qui fait évoluer  progressiv
 `Vitalité`, `Appréciation` & `optimisme`
 
 ### Justification :
-Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai vraiment `appécié` le fait de pouvoir librement dessiner sur le tableau blanc et d'observé, par la suite, ma composition avec des effects visuel et sensorielle synchronisé. Aussi, mon regard est devenu plus `optimiste` en constatant, à mon arrivée dans la pièce, la quantité de lumière flamboyante qui était amplifiée grâce au peu de rayons qu'il y avait habituellement. 
+Je me suis senti `vivant`, au moment où j'ai expérimenté cette oeuvre. J'ai vraiment `apprécié` le fait de pouvoir librement dessiner sur le tableau blanc et d'observer, par la suite, ma composition avec des effets visuels et sensoriels synchronisés. Aussi, mon regard est devenu plus `optimiste` en constatant, à mon arrivée dans la pièce, la quantité de lumière flamboyante qui était amplifiée grâce au peu de rayons qu'il y avait habituellement. 
 
 ![finale_prismatica](./media/finale_prismatica.jpg)
 ###### `Installation finale du projet Prismatica`
