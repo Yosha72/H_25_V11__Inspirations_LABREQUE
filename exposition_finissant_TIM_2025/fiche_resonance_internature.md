@@ -1,4 +1,6 @@
 
+
+
 # `INTERNATURE`
 
 **`Voici la documentation du projet Internature, qui est celui que j'apprécie le plus.`**
@@ -8,15 +10,14 @@
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
 
-![video_internature](./media/video_finale_internature.mov)
-###### `Vidéo de l'installation d' Internature` 
-
-product_video_transcript: ./media/video_finale_internature.mov
-
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
 
+### Mise en exposition :
+`Collège Montmorency`
 
+### Type d'exposition :
+`Temporaire` & `Intérieure`
 
 
 ![finale_internature](./media/finale_internature.jpg)
