@@ -1,6 +1,6 @@
 # `RÉSONANCE`
 
-**`Voici une présentation abrégée des projets des finissants en TIM de 2025`**
+**`Voici une présentation abrégée des projets des finissants en TIM de 2025.`**
 
 # 
 
