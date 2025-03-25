@@ -1,6 +1,6 @@
 
 
-# `INTERNATURE` | Mars 2025
+# `INTERNATURE` | 2025
 ### `(Projet favori de l'exposition RÉSONANCE)`
 
 **`Voici la documentation du projet Internature, qui est celui que j'apprécie le plus.`**
@@ -11,7 +11,7 @@
 ###### `Logo du projet Internature` 
 
 #
-
+![video_presentation_internature](https://youtu.be/gOmRA3XJf-A?feature=shared)
 # INFO
 
 ### Réalisé par : 
