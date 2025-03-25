@@ -14,10 +14,20 @@
 ### Mise en exposition :
 `Collège Montmorency`
 
+### Date de la visite :
+`17-21 Mars`
+
 ### Type d'exposition :
 `Temporaire` & `Intérieure`
 
+### Type d'installation :
+`Contemplative`, `immersive` & `interactive`
+
+
 ### Date de la visite :
+`17-21 Mars`
+
+### Description :
 `17-21 Mars`
  
 ![finale_internature](./media/finale_internature.jpg)
