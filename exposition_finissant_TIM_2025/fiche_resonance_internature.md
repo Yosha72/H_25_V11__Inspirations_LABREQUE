@@ -5,12 +5,9 @@
 
 # 
 
-
-   
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
 
-# Internature
 
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
