@@ -1,6 +1,4 @@
 
-
-
 # `INTERNATURE`
 
 **`Voici la documentation du projet Internature, qui est celui que j'apprécie le plus.`**
@@ -19,7 +17,9 @@
 ### Type d'exposition :
 `Temporaire` & `Intérieure`
 
-
+### Date de la visite :
+`17-21 Mars`
+ 
 ![finale_internature](./media/finale_internature.jpg)
 ###### `Installation finale du projet Internature`
 
