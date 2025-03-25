@@ -34,6 +34,12 @@
 
 ### Description :
 
+### Composantes et techniques :
+
+### Éléments nécessaires à la mise en exposition
+
+### Mise en espace	:
+
  
 ![finale_internature](./media/finale_internature.jpg)
 ###### `Installation finale du projet Internature`
