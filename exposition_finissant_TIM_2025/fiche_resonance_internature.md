@@ -11,6 +11,8 @@
 ![video_internature](./media/video_finale_internature.mov)
 ###### `Vidéo de l'installation d' Internature` 
 
+product_video_transcript: ./media/video_finale_internature.mov
+
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
 
