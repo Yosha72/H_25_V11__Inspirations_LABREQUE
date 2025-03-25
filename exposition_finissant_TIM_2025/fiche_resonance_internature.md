@@ -11,7 +11,8 @@
 ###### `Logo du projet Internature` 
 
 #
-![video_presentation_internature](https://youtu.be/gOmRA3XJf-A?feature=shared)
+### Vidéo de présentation
+https://youtu.be/gOmRA3XJf-A?feature=shared
 # INFO
 
 ### Réalisé par : 
