@@ -1,5 +1,7 @@
 
-# `INTERNATURE`
+
+# `INTERNATURE` | Mars 2025
+### `(Projet favori de l'exposition RÉSONANCE)`
 
 **`Voici la documentation du projet Internature, qui est celui que j'apprécie le plus.`**
 
@@ -7,6 +9,10 @@
 
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
+
+#
+
+# INFO
 
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
@@ -23,12 +29,11 @@
 ### Type d'installation :
 `Contemplative`, `immersive` & `interactive`
 
-
-### Date de la visite :
-`17-21 Mars`
+### Fonction du dispositif :
+``
 
 ### Description :
-`17-21 Mars`
+
  
 ![finale_internature](./media/finale_internature.jpg)
 ###### `Installation finale du projet Internature`
