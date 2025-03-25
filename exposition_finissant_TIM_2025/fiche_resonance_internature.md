@@ -8,8 +8,8 @@
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
 
-![logo_internature](./media/logo_internature.jpg)
-###### `Logo du projet Internature` 
+![video_internature](./media/video_finale_internature.mov)
+###### `Vidéo de l'installation d' Internature` 
 
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
