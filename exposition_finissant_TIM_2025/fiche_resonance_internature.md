@@ -90,8 +90,8 @@ J'ai choisi le projet `Internature` comme étant mon `projet préféré` car il 
 
 ### - `Point(s) à embellir` :
 
-- `Durée de l'évolution du design` --> Je pense que le `climax` et l'`évolution du design de la projection` pourraient être plus longs et plus enrichis pour pouvoir avoir un `souvenir plus ancré de l'installation` ainsi que de notre expérience vécue.
-- `` --> 
+- `Durée de l'évolution du design` --> Je pense que le `climax` et l'`évolution du design de la projection` pourraient être plus longs et plus enrichis pour pouvoir avoir un `souvenir plus ancré de l'installation` ainsi que de notre `expérience vécue`.
+- `Qualité de l'interactivité` --> La `fluidité` et la `précision de l'interaction du toucher` sur les parois du tunnel pourraient être améliorées afin d'ajouter une certaine `expertise professionnelle` plus poussée.
   
  #
 
