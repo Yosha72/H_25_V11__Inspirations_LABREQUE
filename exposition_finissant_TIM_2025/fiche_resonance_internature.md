@@ -10,8 +10,6 @@
 ![logo_internature](./media/logo_internature.jpg)
 ###### `Logo du projet Internature` 
 
-#
-
 # Vidéo de présentation
 https://youtu.be/gOmRA3XJf-A?feature=shared
 
