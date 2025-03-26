@@ -50,9 +50,12 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 #
 
 ### Description | Fonction du dispositif : 
-`Internature` est une installation qui met en oeuvre un `tunnel immersif` dont la surface est entièrement illuminée par des `projecteurs` et interactive au niveau des parois. De plus, l'environnement synthétique évolue en fonction des interactions des visiteurs sur la `sphère` installée au centre du tunnel. Dans le but d'assurer une immersion complète, celui-ci est placé dans une `pièce sombre` et des `haut-parleurs` jouent une `piste audio` pendant les visites, créant ainsi une expérience pleine et centrée sur la nature.
+`Internature` est une installation qui met en oeuvre un `tunnel immersif` dont la surface est entièrement illuminée par des `projecteurs` et interactive au niveau des parois. De plus, l'environnement synthétique évolue en fonction des interactions des visiteurs sur la `sphère` installée au centre du tunnel qui effectue des rotations sur des `roues à billes` et un `anneau de support`. Dans le but d'assurer une immersion complète, celui-ci est placé dans une `pièce sombre` et des `haut-parleurs` jouent une `piste audio` pendant les visites, créant ainsi une expérience pleine et centrée sur la nature.
 
 ### Composantes et techniques :
+- `Abris en toile` --> Tunnel immersif
+- `Roues à billes`
+- `Projecteurs`
 
 ### Éléments nécessaires à la mise en exposition
 
