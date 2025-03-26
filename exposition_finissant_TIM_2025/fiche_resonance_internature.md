@@ -63,10 +63,8 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 - `Environnement sombre` --> Lieu où les projections sont visiblement illuminées et contrastées avec la lumière de la pièce
 - `Composantes électriques` --> Pour détecter, envoyer, traiter et projeter les informations et les données du projet
 
-
-### Éléments nécessaires à la mise en exposition
-
 ### Mise en espace	:
+
 
  
 ![plantation_serre_internature](./media/plantation_serre_internature.jpg)
