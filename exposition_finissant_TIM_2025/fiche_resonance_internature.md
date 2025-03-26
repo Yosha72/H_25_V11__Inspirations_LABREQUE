@@ -1,6 +1,6 @@
 
 
-# `INTERNATURE` | 2025
+# `INTERNATURE`
 ### `(Projet favori de l'exposition RÉSONANCE)`
 
 **`Voici la documentation du projet Internature, qui est celui que j'apprécie le plus.`**
@@ -18,6 +18,9 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 #
 
 # INFO
+
+### Année de réalisation :
+`2025`
 
 ### Réalisé par : 
 `Khaly Tia Sing`, `Isaac Fafard`, `Delphine Grenier`, `Sitmonternna Yi` & `Kenza El Harrif`
