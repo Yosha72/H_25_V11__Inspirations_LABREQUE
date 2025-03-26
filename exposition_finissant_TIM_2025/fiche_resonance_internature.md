@@ -57,9 +57,9 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 - `Balle de bowling` --> Sphère
 - `Anneau de support` --> Support pour éviter que la sphère tombe
 - `Roues à billes` --> Stabiliser et diriger la sphere
-- `Projecteurs` -->
+- `Projecteurs` --> 
 - `` --> 
-- `` --> 
+- `Environnement sombre` --> Lieu où les projections sont visiblement illuminées et contrastées
 
 ### Éléments nécessaires à la mise en exposition
 
