@@ -78,13 +78,13 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 #
 
 ## Appréciation personnelle
-- `Choix du dispositif` :
+### - `Choix du dispositif` :
 
 J'ai choisi le projet `Internature` comme étant mon `projet préféré` car il est non seulement beaucoup `plus complet que les autres projets`, notamment grâce aux `nombreux aspects interactifs, visuels, esthétiques et diversifiés (audio, design, code, construction, interaction, etc.)`, mais aussi car il permet d'être `réellement isolé du monde extérieur` et `concentré dans l'expérience immersive`.
 
-- `Point(s) fort(s)` :
+### - `Point(s) fort(s)` :
 
-- `Point(s) à embellir` :
+### - `Point(s) à embellir` :
 
  #
 
