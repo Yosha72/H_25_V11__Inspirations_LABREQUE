@@ -54,8 +54,12 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 
 ### Composantes et techniques :
 - `Abris en toile` --> Tunnel immersif
-- `Roues à billes`
-- `Projecteurs`
+- `Balle de bowling` --> Sphère
+- `Anneau de support` --> Support pour éviter que la sphère tombe
+- `Roues à billes` --> Stabiliser et diriger la sphere
+- `Projecteurs` -->
+- `` --> 
+- `` --> 
 
 ### Éléments nécessaires à la mise en exposition
 
