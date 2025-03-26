@@ -64,14 +64,18 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 - `Composantes électriques` --> Pour détecter, envoyer, traiter et projeter les informations et les données du projet
 
 ### Mise en espace	:
-
-
  
 ![plantation_serre_internature](./media/plantation_serre_internature.jpg)
 ###### `Plantation de la serre du projet Internature`
 
+![plantation_serre_haut_internature](./media/plantation_serre_haut_internature.jpg)
+###### `Plantation de la serre du projet Internature vue de haut`
+
 ![plantation_sphere_internature](./media/plantation_sphere_internature.jpg)
 ###### `Plantation de la sphere du projet Internature`
+
+![Schema_internature](./media/schema_internature.jpg)
+###### `Schéma des composantes électriques du projet Internature`
 
 ###### Source du projet : (https://tprangers.github.io/internature/#/)
 
