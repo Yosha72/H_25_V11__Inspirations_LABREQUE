@@ -25,7 +25,7 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 `17-21 Mars`
 
 ### Type d'exposition :
-`Temporaire` & `Intérieure`
+`Temporaire` & `intérieure`
 
 ### Type d'installation :
 `Contemplative`, `immersive` & `interactive`
