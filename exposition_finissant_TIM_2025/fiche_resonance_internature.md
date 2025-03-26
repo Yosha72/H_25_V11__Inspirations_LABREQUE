@@ -87,12 +87,10 @@ J'ai choisi le projet `Internature` comme étant mon `projet préféré` car il 
 - `Immersion` --> Il est facile d'entrer dans l'expérience
 - `Diversité des concepts utilisés` --> La diversité des composantes et concepts permet une très bonne complexité du projet
 - `Projet riche en concepts` --> Grande variété de techniques et aspects interactifs, immersifs, etc.
-- `` --> 
-- `` --> 
 
 ### - `Point(s) à embellir` :
 
-- `` -->
+- `Durée de l'évolution du design` --> Je pense que le `climax` et l'`évolution du design de la projection` pourraient être plus longs et plus enrichis pour pouvoir avoir un `souvenir plus ancré de l'installation` ainsi que de notre expérience vécue.
 - `` --> 
   
  #
