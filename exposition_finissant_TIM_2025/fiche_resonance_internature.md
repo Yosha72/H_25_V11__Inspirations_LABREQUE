@@ -11,8 +11,12 @@
 ###### `Logo du projet Internature` 
 
 #
-### Vidéo de présentation
+
+# Vidéo de présentation
 https://youtu.be/gOmRA3XJf-A?feature=shared
+
+#
+
 # INFO
 
 ### Réalisé par : 
@@ -30,12 +34,17 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 ### Type d'installation :
 `Contemplative`, `immersive` & `interactive`
 
+#
+
 ![finale_internature](./media/finale_internature.jpg)
 ###### `Installation finale du projet Internature`
 
+#
 
 ![cartel_internature](./media/cartel_internature.jpg)
 ###### `Cartel du projet Internature` 
+
+#
 
 ### Description | Fonction du dispositif : 
 `Internature` est une installation qui met en oeuvre un `tunnel immersif` dont la surface est entièrement illuminée par des `projecteurs` et interactive au niveau des parois. De plus, l'environnement synthétique évolue en fonction des interactions des visiteurs sur la `sphère` installée au centre du tunnel. Dans le but d'assurer une immersion complète, celui-ci est placé dans une `pièce sombre` et des `haut-parleurs` jouent une `piste audio` pendant les visites, créant ainsi une expérience pleine et centrée sur la nature.
