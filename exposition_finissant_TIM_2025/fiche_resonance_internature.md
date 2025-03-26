@@ -57,6 +57,7 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 - `Balle de bowling` --> Sphère qui effectue des rotations sur elle-même et émet des signaux aux composantes électriques
 - `Anneau de support` --> Support pour éviter que la sphère tombe
 - `Roues à billes` --> Stabiliser et diriger la sphere
+- `Support en bois` --> Pour adapter la hauteur de la sphère pour que les visiteurs puissent interagir plus facilement
 - `Projecteurs` --> Progètent le design créé, selon le mapping vidéo interactif, sur les parois du tunnel
 - `Haut-parleurs` --> Diffuser la piste audio sur les côtés du tunnel
 - `Environnement sombre` --> Lieu où les projections sont visiblement illuminées et contrastées avec la lumière de la pièce
