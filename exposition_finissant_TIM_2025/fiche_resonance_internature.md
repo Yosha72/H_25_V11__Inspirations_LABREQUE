@@ -57,9 +57,9 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 - `Balle de bowling` --> Sphère
 - `Anneau de support` --> Support pour éviter que la sphère tombe
 - `Roues à billes` --> Stabiliser et diriger la sphere
-- `Projecteurs` --> 
+- `Projecteurs` --> Progètent, selon le mapping vidéo interactif, sur les parois du tunnel
 - `` --> 
-- `Environnement sombre` --> Lieu où les projections sont visiblement illuminées et contrastées
+- `Environnement sombre` --> Lieu où les projections sont visiblement illuminées et contrastées avec la lumière de la pièce
 
 ### Éléments nécessaires à la mise en exposition
 
