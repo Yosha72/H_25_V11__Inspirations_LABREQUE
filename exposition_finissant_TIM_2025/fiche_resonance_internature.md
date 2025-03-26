@@ -85,7 +85,7 @@ J'ai choisi le projet `Internature` comme étant mon `projet préféré` car il 
 ### - `Point(s) fort(s)` :
 
 - `Immersion` --> Il est facile d'entrer dans l'expérience
-- - `Diversité des concepts utilisés` --> La diversité des composantes et concepts permet une très bonne complexité du projet
+- `Diversité des concepts utilisés` --> La diversité des composantes et concepts permet une très bonne complexité du projet
 - `Projet riche en concepts` --> Grande variété de techniques et aspects interactifs, immersifs, etc.
 - `` --> 
 - `` --> 
