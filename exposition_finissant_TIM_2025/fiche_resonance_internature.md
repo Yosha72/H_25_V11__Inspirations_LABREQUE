@@ -62,7 +62,7 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 - `Composantes électriques` --> Pour détecter, envoyer, traiter et projeter les informations et les données du projet
 
 ### Mise en espace	:
- 
+
 ![plantation_serre_internature](./media/plantation_serre_internature.jpg)
 ###### `Plantation de la serre du projet Internature`
 
@@ -74,6 +74,19 @@ https://youtu.be/gOmRA3XJf-A?feature=shared
 
 ![Schema_internature](./media/schema_internature.jpg)
 ###### `Schéma des composantes électriques du projet Internature`
+
+#
+
+## Appréciation personnelle
+- `Choix du dispositif` :
+
+J'ai choisi le projet Internature comme étant mon projet préféré car il est non seulement beaucoup plus complet que les autres projets, notamment grâce aux nombreux aspects interactifs, visuels, esthétiques et diversifiés (audio, design, code, construction, interaction, etc.), mais aussi car il permet d'être réellement isolé du monde extérieur et concentré dans l'expérience immersive.
+
+- `Point(s) fort(s)` :
+
+- `Point(s) à embellir` :
+
+ #
 
 ###### Source du projet : (https://tprangers.github.io/internature/#/)
 
