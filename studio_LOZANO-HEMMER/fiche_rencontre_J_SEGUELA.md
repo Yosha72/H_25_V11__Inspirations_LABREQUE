@@ -4,4 +4,4 @@
 ## Présenté par `Jade Séguela`
 
 
-Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et créés par l'artiste `Rafael Lozano-Hemmer` ainsi que son équipe, la registraire et passionnée de muséologie `Jade Séguela` nous a contextualisé leurs projets multimédias les plus marquants et les plus exigeants.
+Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et créés par l'artiste `Rafael Lozano-Hemmer` ainsi que son équipe, la registraire et passionnée de muséologie `Jade Séguela` nous a contextualisé, par l'utilisation d'une présentation `PowerPoint`, leurs projets multimédias les plus marquants et les plus exigeants.
