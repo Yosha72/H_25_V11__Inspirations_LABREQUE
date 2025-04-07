@@ -1,4 +1,4 @@
 
-#
 
-# Conférence de la présentation de l'artiste `Rafael Lozano-Hemmer` par `Jade Séguela`
+# Conférence de la présentation de l'artiste`Rafael Lozano-Hemmer` 
+## Présenté par `Jade Séguela`
