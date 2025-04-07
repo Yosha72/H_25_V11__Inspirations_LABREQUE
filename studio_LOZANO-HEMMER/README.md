@@ -1,1 +1,1 @@
-## Documentation du travail pratique #04 pour le cours d'`Oeuvres et dispositifs multimedia en exposition` sur un dispositif de l'artiste `Rafael Lozano-Hemmer`.
+## Documentation du travail pratique #04 pour le cours d'`Oeuvres et dispositifs multimedia en exposition` sur le compte-rendu de la présentation de l'artiste `Rafael Lozano-Hemmer` par `Jade Séguela`
