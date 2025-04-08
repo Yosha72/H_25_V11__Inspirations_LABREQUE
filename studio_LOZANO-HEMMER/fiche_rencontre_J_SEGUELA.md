@@ -10,6 +10,9 @@ Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et 
 ![artiste](./media/artiste.jpg)
 ###### `Portrait de l'artiste Rafael Lozano-Hemmer`
 
+![artiste](./media/sphere_packing_bach.jpg)
+###### `Installation Sphere Packing: Bach`
+
 ###### Source: (https://lozano-hemmer.com/sphere_packing_bach.php)
 
 
