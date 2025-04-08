@@ -10,6 +10,7 @@ Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et 
 ![artiste](./media/artiste.jpg)
 ###### `Portrait de l'artiste Rafael Lozano-Hemmer`
 
+###### Source: (https://antimodular.com/bio.php)
 #
 
 ![artiste](./media/sphere_packing_bach.jpg)
