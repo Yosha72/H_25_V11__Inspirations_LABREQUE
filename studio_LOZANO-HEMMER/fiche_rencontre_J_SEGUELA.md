@@ -20,6 +20,6 @@ Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et 
 
 #### *`Sphere Packing: Bach`*
 
-Même si elle était la première installation présentée et qu'elle paraissait la moins complexe, celle-ci était pourtant extrêmement difficile et encombrante à mettre en place. `Sphere Packing: Bach` est une œuvre basée sur une multitude de pistes audio des compositions de `Johann Sebastian Bach` installées dans une sphère artisanale en bois de 3 mètres de diamètre où l'on les y fait jouer grâce aux nombreux haut-parleurs qui permettent une ambiance surchargée et enveloppante.
+`Sphere Packing: Bach` est une œuvre basée sur une multitude de `pistes audio` des compositions de `Johann Sebastian Bach` installées dans une `sphère artisanale en bois` de `3 mètres de diamètre` où l'on les y fait jouer grâce aux nombreux `haut-parleurs` qui permettent une `ambiance surchargée et enveloppante`. Même si celle-ci était la première installation présentée et qu'elle `paraissait la moins complexe`, elle était pourtant `extrêmement difficile et encombrante à mettre en place`.
 
 #### `Appréciation de la conférence`
