@@ -1,4 +1,4 @@
-
+25 Mars 2025
 
 # Conférence de la présentation de l'artiste`Rafael Lozano-Hemmer` 
 ## Présenté par `Jade Séguela`
