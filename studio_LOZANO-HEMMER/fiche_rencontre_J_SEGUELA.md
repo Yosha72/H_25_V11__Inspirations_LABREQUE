@@ -24,5 +24,5 @@ Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et 
 
 #### `Appréciation de la conférence`
 
-À première vue, la conférence me semblait abstraite et intrigante due au peu d'informations que je découvrais. Cependant, plus celle-ci progressait, plus l'information était détaillée de la communication, en passant par les détails rigolo jusqu'aux plus importants comme la quantité de connexion ou encore la longueur des câbles. Je l'ai vraiment trouvée enrichissante. 
+À première vue, la conférence me semblait `abstraite` et `intrigante` due au peu d'informations que je découvrais. Cependant, plus celle-ci progressait, plus l'information était `détaillée` de la `communication`, en passant par les `détails rigolo` jusqu'aux plus importants comme `la quantité de connexion` ou encore `la longueur des câbles`. Je l'ai vraiment trouvée `enrichissante`. 
 
