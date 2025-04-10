@@ -13,7 +13,7 @@ Durant la conférence portant sur quelques-uns des dispositifs mis en œuvre et 
 ###### Source: (https://antimodular.com/bio.php)
 #
 
-![artiste](./media/sphere_packing_bach.jpg)
+![artiste](./media/sphere_packing_bach_photo_RLH.jpg)
 ###### `Installation Sphere Packing: Bach`
 
 ###### Source: (https://lozano-hemmer.com/sphere_packing_bach.php)
