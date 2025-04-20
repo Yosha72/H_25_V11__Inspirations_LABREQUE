@@ -12,7 +12,6 @@
 ![artiste](./media/sphere_packing_bach_photo_RLH.jpg)
 ###### ``
 
-###### Source: ([https://lozano-hemmer.com/sphere_packing_bach.php](https://www.mbam.qc.ca/fr/expositions/anri-sala/))
 
 
 #### `Appréciation de la conférence`
