@@ -10,10 +10,16 @@
 
 #
 
+### `Informations générales`
+
+- Lieu de mise en exposition : `Musée des beaux-arts de Montréal`
+- Type d'exposition : `Intérieure & temporaire`
+- Type d'installation :`Immersive & contemplative`
 
 
 
 ### `Informations sur place`
+
 
 ![Informations à l'entrée de l'oeuvre](./media/texte_information_oeuvre_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
