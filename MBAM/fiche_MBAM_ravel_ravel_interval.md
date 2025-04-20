@@ -14,6 +14,13 @@
 
 #### `Informations sur place`
 
+![Crédits et remerciements de l'oeuvre](./media/credit_remerciement_oeuvre_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque du mur de présentation de l'oeuvre`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+#
+
+
 
 #### `Appréciation de la conférence`
 
