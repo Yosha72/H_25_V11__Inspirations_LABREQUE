@@ -14,7 +14,8 @@
 
 - Lieu de mise en exposition : `Musée des beaux-arts de Montréal`
 - Type d'exposition : `Intérieure & temporaire`
-- Type d'installation :`Immersive & contemplative`
+- Type d'installation : `Immersive & contemplative`
+- Année de réalisation : `2017`
 
 
 
