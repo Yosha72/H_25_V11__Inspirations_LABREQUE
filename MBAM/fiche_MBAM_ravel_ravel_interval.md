@@ -16,7 +16,7 @@
 ### `Informations sur place`
 
 ![Informations à l'entrée de l'oeuvre](./media/texte_information_oeuvre_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du texte d'information du mur de l'accueil de l'oeuvre`
+###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
