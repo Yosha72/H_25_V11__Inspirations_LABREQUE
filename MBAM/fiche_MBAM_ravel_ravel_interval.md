@@ -3,12 +3,15 @@
 # Visite et expérience de l'exposition `Ravel Ravel Interval` d'`Anri Sala` Au `Musée des beaux-arts de Montréal`
 
 
-![mur de présentation de l'oeuvre](./media/presentation_oeuvre_photo_PLB.jpg)
+![Mur de présentation de l'oeuvre](./media/presentation_oeuvre_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du mur de présentation de l'oeuvre`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
 #
+
+![Corridor d'entrée de l'oeuvre](./media/corridor_cartel_credit_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du corridor d'entrée où se trouvent 2 cartels d'information de l'oeuvre`
 
 ### `Informations générales`
 
