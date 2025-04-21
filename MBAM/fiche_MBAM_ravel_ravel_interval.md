@@ -10,8 +10,14 @@
 
 #
 
-![Corridor d'entrée de l'oeuvre](./media/corridor_cartel_credit_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du corridor d'entrée où se trouvent 2 cartels d'information de l'oeuvre`
+![Informations à l'entrée de l'oeuvre](./media/texte_information_oeuvre_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+
+#
+
 
 ### `Informations générales`
 
@@ -22,13 +28,20 @@
 
 
 
+#
+
+
 ### `Informations sur place`
 
+Suite à la lecture du mur de présentation du dispositif qui se trouve à l'accueil de l'oeuvre, un long corridor sombre et presque vide présente 2 cartels d'information sur `Ravel Ravel Interval`.
 
-![Informations à l'entrée de l'oeuvre](./media/texte_information_oeuvre_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
+![Corridor d'entrée de l'oeuvre](./media/corridor_cartel_credit_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du corridor d'entrée où se trouvent 2 cartels d'information de l'oeuvre`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
+#
+
+
 
 
 #
