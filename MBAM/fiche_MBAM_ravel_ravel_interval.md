@@ -47,7 +47,9 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
 - Type d'exposition : `Intérieure & temporaire`
 - Type d'installation : `Immersive & contemplative`
 - Année de réalisation : `2017`
-- 
+
+- Composantes de l'oeuvre
+  - [ ] `2 projecteurs`
 
 
 
