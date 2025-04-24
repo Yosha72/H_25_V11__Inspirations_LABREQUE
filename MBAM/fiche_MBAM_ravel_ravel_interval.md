@@ -1,4 +1,4 @@
-3 Avril 2025
+`Date de la visite :` 3 Avril 2025
 
 # Visite et expérience de l'exposition `Ravel Ravel Interval` d'`Anri Sala` Au `Musée des beaux-arts de Montréal`
 
@@ -25,6 +25,7 @@
 - Type d'exposition : `Intérieure & temporaire`
 - Type d'installation : `Immersive & contemplative`
 - Année de réalisation : `2017`
+- 
 
 
 
