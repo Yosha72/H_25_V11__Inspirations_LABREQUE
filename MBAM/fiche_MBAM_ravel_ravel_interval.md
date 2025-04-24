@@ -33,6 +33,10 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
+![Projecteur de la projection principale](./media/projecteur_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du projecteur de la projection principale`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
 
 
 #
