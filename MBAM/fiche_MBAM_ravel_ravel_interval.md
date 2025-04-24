@@ -29,7 +29,7 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
 ![Oeuvre vue de côté](./media/superposition_2_projection_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation de côté. (où l'on observe les 2 projections ainsi qu'un des deux projecteurs)`
+###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation de côté. (où l'on observe les 2 projections ainsi qu'un des deux projecteurs dans la salle)`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
