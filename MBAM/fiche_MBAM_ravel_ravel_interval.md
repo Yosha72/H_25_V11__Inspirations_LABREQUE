@@ -19,7 +19,9 @@
 
 ## `Ravel Ravel Interval`
 
-`Ce point de vue est une observation de face afin de contempler le résultat de l'effet de superposition des 2 projections.`
+Pour résumer `le cartel présenté ci-haut`, voici un court paragraphe qui explique ma compréhension de `Ravel Ravel Interval`.
+
+### Ce point de vue est une observation de face afin de contempler le résultat de l'effet de superposition des 2 projections.
 
 ![Oeuvre vue de face](./media/resultat_superposition_projection_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation des spectateurs`
