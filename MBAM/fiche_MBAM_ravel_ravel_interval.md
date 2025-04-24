@@ -49,7 +49,9 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
 - Année de réalisation : `2017`
 
 - Composantes de l'oeuvre
-  - [ ] `2 projecteurs`
+  - [ ] `2 Projecteurs` --> Projettent les vidéos sur les toiles
+  - [ ] `2 Toiles blanches` --> Délimitent la zone où sont projetées les vidéos
+  - [ ] `2 Bancs` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
 
 
 
