@@ -18,6 +18,15 @@
 
 #
 
+![](./media/resultat_superposition_oeuvre_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation des spectateurs`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+Ce point de vue est de face afin de contempler le résultat de l'effet de superposition des 2 projections
+
+
+#
 
 ### `Informations générales`
 
