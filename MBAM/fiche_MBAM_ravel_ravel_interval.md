@@ -19,7 +19,7 @@
 
 ## `Ravel Ravel Interval`
 
-Pour résumer `le cartel présenté ci-haut`, voici un court paragraphe qui explique ma compréhension de `Ravel Ravel Interval`.
+Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`, voici un court paragraphe qui explique ma compréhension de `Ravel Ravel Interval` :
 
 ### Ce point de vue est une observation de face afin de contempler le résultat de l'effet de superposition des 2 projections.
 
@@ -28,6 +28,10 @@ Pour résumer `le cartel présenté ci-haut`, voici un court paragraphe qui expl
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
+![Oeuvre vue de côté](./media/superposition_2_projection_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation de côté`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
 
 
 
