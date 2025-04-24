@@ -96,7 +96,7 @@ Suite à la lecture du mur de présentation du dispositif qui se trouve à l'acc
 
 
 
-### `Appréciation de la conférence`
+### `Appréciation de l'oeuvre`
 
 
 
