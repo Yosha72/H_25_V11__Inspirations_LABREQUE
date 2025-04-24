@@ -52,9 +52,9 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
   - [ ] `2 Projecteurs` --> Projettent les vidéos sur les toiles
   - [ ] `2 Toiles blanches` --> Délimitent la zone où sont projetées les vidéos
   - [ ] `2 Bancs` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
-  - [ ] `14 Haut-parleurs` -->
+  - [ ] `14 Haut-parleurs` --> Pour diffuser spécialement les différentes pistes audio
   - [ ] `3 Projecteur lumineux` --> Afin de guider
-  - [ ] `Herse` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
+  - [ ] `1 Herse` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
 
 
 
