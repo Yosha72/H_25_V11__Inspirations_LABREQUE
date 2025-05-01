@@ -8,7 +8,6 @@
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
-#
 
 ![façade exterieur de l'exposition](./media/facade_exterieur_entree_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, de la façade extérieur du studio PHI`
@@ -17,7 +16,12 @@
 
 #
 
+`Vidéo :` https://youtu.be/YGkZeq5Ht2U
+###### `Vidéo de Philippe La Brèque, de la capsule vidéo d'introduction et d'avertissement pour l'exposition`
 
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+#
 
 
 
@@ -115,4 +119,4 @@ Suite à la lecture du mur de présentation du dispositif qui se trouve à l'acc
 `Intrigué` par le `corridor` qui me parut `presque vide`, j'étais déjà `enthousiaste` à l'idée de découvrir `une oeuvre donc j'ignorai l'objectif`. Une fois entré dans la `seconde pièce`, j'ai compris que des `bancs` m'attendaient afin que je puisse contempler les `2 vidéos saccadantes qui attiraient mon œil`. Après quelques minutes d'observation, j'ai trouvé la réponse à mon intrigue. L'objectif était d'`observer la superposition des deux vidéos` de façon à les visionner en `harmonie décalée` tout en `suscitant le plus de sens du corps humain possible`. L'`ingéniosité` de cette `technique` est, pour moi, `vraiment impressionnante` et `preuve du génie humain`.
 
 
-`Vidéo :` https://youtu.be/YGkZeq5Ht2U
+
