@@ -1,6 +1,6 @@
 `Date de la visite :` 25 Février 2025
 
-# Visite et expérience de l'exposition `MONDES DISPARUS` du `STUDIO PHI` à `Montréal`
+# Visite et expérience de l'exposition `Mondes Disparus` du `Studio PHI` à `Montréal`
 
 
 ![façade intérieur de l'exposition](./media/facade_interieur_entree_photo_PLB.jpg)
