@@ -2,7 +2,6 @@
 
 # Visite et expérience de l'exposition `Mondes Disparus` du `Studio PHI` à `Montréal`
 
-
 ![façade intérieur de l'exposition](./media/facade_interieur_entree_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du mur d'accueil de l'exposition`
 
@@ -23,6 +22,14 @@
 
 #
 
+## `Informations générales`
+
+- Lieu de mise en exposition : `Studio PHI`
+- Type d'exposition : `Intérieure & temporaire`
+- Type d'installation : `Immersive, expérimentale & contemplative`
+- Année de réalisation : `2025`
+
+
 
 
 
@@ -34,7 +41,7 @@
 
 #
 
-### Crédits & Partenaires
+## Crédits & Partenaires
 
 ![Partie 1 du mur de crédits & partenaires](./media/mur_credit_partie1_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, de la partie 1 du mur des crédits et partenaires de l'expositions`
@@ -56,6 +63,8 @@
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
+#
+
 
 
 
@@ -75,12 +84,6 @@
 
 #
 
-### `Informations générales`
-
-- Lieu de mise en exposition : `Studio PHI`
-- Type d'exposition : `Intérieure & temporaire`
-- Type d'installation : `Immersive, expérimentale & contemplative`
-- Année de réalisation : `2025`
 
 - Composantes de l'oeuvre
   - [ ] `` --> Projettent les vidéos sur les toiles
@@ -94,37 +97,6 @@
   - [ ] `Courant` Pour alimenter l'exposition en énergie
 
 
-
-#
-
-
-### `Informations sur place`
-
-Suite à la lecture du mur de présentation du dispositif qui se trouve à l'accueil de l'oeuvre, un long corridor sombre et presque vide présente 2 cartels d'information sur `Ravel Ravel Interval`.
-
-![Corridor d'entrée de l'oeuvre](./media/corridor_cartel_credit_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du corridor d'entrée où se trouvent 2 cartels d'information de l'oeuvre`
-
-###### Source: (Téléphone portable de Philippe La Brèque)
-#
-
-
-
-
-#
-
-
-![Cartel de l'oeuvre](./media/cartel_oeuvre_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du cartel de l'oeuvre`
-
-###### Source: (Téléphone portable de Philippe La Brèque)
-
-#
-
-![Crédits et remerciements de l'oeuvre](./media/credit_remerciement_oeuvre_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, des crédits et remerciements de l'oeuvre`
-
-###### Source: (Téléphone portable de Philippe La Brèque)
 
 #
 
