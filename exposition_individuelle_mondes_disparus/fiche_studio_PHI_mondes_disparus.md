@@ -25,18 +25,20 @@
 
 
 
-![Informations à l'entrée de l'oeuvre](./media/texte_information_oeuvre_photo_PLB.jpg)
+
+
+![Station de départ de l'expérience](./media/depart_station_casque_vr_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
 #
 
-## `Ravel Ravel Interval`
+## ``
 
-Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`, voici un court paragraphe qui explique ma compréhension de `Ravel Ravel Interval` : l'oeuvre présente l'utilisation de deux projections superposées et décalées au niveau du temps qui illustrent deux angles de vue différents des mains d'Anri Sala jouant du piano. Tout en étant synchronisée avec le son diffusé dans toute la salle par les `14 haut-parleurs`, cet effet crée une sorte de symbiose musicale pour les visiteurs.
+gertgkerjgb
 
-### Ce point de vue est une observation de face afin de contempler le résultat de l'effet de superposition des 2 projections.
+### herh
 
 ![Oeuvre vue de face](./media/resultat_superposition_projection_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation des spectateurs`
@@ -58,10 +60,10 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
 
 ### `Informations générales`
 
-- Lieu de mise en exposition : `Musée des beaux-arts de Montréal`
+- Lieu de mise en exposition : `Studio PHI`
 - Type d'exposition : `Intérieure & temporaire`
 - Type d'installation : `Immersive & contemplative`
-- Année de réalisation : `2017`
+- Année de réalisation : `2025`
 
 - Composantes de l'oeuvre
   - [ ] `2 Projecteurs` --> Projettent les vidéos sur les toiles
