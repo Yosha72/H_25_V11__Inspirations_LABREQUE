@@ -40,8 +40,8 @@ gertgkerjgb
 
 ### Crédits & Partenaires
 
-![Oeuvre vue de face](./media/resultat_superposition_projection_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation des spectateurs`
+![Partie 1 du mur de crédits & partenaires](./media/mur_credit_partie1_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du mur des crédits et partenaires de l'expositions`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
@@ -62,7 +62,7 @@ gertgkerjgb
 
 - Lieu de mise en exposition : `Studio PHI`
 - Type d'exposition : `Intérieure & temporaire`
-- Type d'installation : `Immersive & contemplative`
+- Type d'installation : `Immersive, expérimentale & contemplative`
 - Année de réalisation : `2025`
 
 - Composantes de l'oeuvre
