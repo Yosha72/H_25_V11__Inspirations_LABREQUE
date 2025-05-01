@@ -27,8 +27,8 @@
 
 
 
-![Station de départ de l'expérience](./media/depart_station_casque_vr_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
+![Station de départ de l'expérience_ avec les casques VR](./media/depart_station_casque_vr_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la station de casque VR de l'exposition (est aussi le point de départ de l'expérience)`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
@@ -66,15 +66,15 @@ gertgkerjgb
 - Année de réalisation : `2025`
 
 - Composantes de l'oeuvre
-  - [ ] `2 Projecteurs` --> Projettent les vidéos sur les toiles
-  - [ ] `2 Toiles blanches` --> Délimitent la zone où sont projetées les vidéos
-  - [ ] `2 Bancs` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
-  - [ ] `14 Haut-parleurs` --> Pour diffuser différentes pistes audio en spatialisation
-  - [ ] `3 Projecteur lumineux` --> Afin de guider
-  - [ ] `1 Herse` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
-  - [ ] `1 Tapis` --> Pour réduire la résonance du son dans la salle
+  - [ ] `` --> Projettent les vidéos sur les toiles
+  - [ ] `` --> Délimitent la zone où sont projetées les vidéos
+  - [ ] `` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
+  - [ ] `` --> Pour diffuser différentes pistes audio en spatialisation
+  - [ ] `` --> Afin de guider
+  - [ ] `` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
+  - [ ] `` --> Pour réduire la résonance du son dans la salle
   - [ ] `1 multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
-  - [ ] `Courant` Pour alimenter l'oeuvre en énergie
+  - [ ] `Courant` Pour alimenter l'exposition en énergie
 
 
 
