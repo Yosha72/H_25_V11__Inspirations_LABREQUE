@@ -19,7 +19,7 @@
 
 ## `Ravel Ravel Interval`
 
-Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`, voici un court paragraphe qui explique ma compréhension de `Ravel Ravel Interval` : l'oeuvre présente l'utilisation de deux projections superposées et décalées au niveau du temps qui illustrent deux angles de vue différents des mains d'Anri Sala jouant du piano. Tout en étant syncronisée avec  cette effect crée une
+Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`, voici un court paragraphe qui explique ma compréhension de `Ravel Ravel Interval` : l'oeuvre présente l'utilisation de deux projections superposées et décalées au niveau du temps qui illustrent deux angles de vue différents des mains d'Anri Sala jouant du piano. Tout en étant syncronisée avec le son diffusé dans tout la salle par les 14 haut-parleurs, cette effect crée une
 
 ### Ce point de vue est une observation de face afin de contempler le résultat de l'effet de superposition des 2 projections.
 
@@ -56,6 +56,7 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
   - [ ] `3 Projecteur lumineux` --> Afin de guider
   - [ ] `1 Herse` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
   - [ ] `1 Tapis` --> Pour réduire la résonance du son dans la salle
+  - [ ] `1 multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
 
 
 
