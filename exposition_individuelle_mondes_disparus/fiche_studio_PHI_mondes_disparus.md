@@ -29,9 +29,7 @@
 - Type d'installation : `Immersive, expérimentale & contemplative`
 - Année de réalisation : `2025`
 
-
-
-
+## Présentation de l'expérience
 
 
 ![Station de départ de l'expérience_ avec les casques VR](./media/depart_station_casque_vr_photo_PLB.jpg)
