@@ -38,7 +38,7 @@
 
 gertgkerjgb
 
-### herh
+### Crédits & Partenaires
 
 ![Oeuvre vue de face](./media/resultat_superposition_projection_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation des spectateurs`
