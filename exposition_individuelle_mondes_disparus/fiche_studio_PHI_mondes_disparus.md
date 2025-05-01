@@ -4,11 +4,22 @@
 
 
 ![façade intérieur de l'exposition](./media/facade_interieur_entree_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du mur de présentation de l'oeuvre`
+###### `Photo de Philippe La Brèque, du mur d'accueil de l'exposition`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
 #
+
+![façade exterieur de l'exposition](./media/facade_exterieur_entree_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la façade extérieur du studio PHI`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+#
+
+
+
+
 
 ![Informations à l'entrée de l'oeuvre](./media/texte_information_oeuvre_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du texte d'information du mur d'accueil de l'oeuvre`
