@@ -34,16 +34,33 @@
 
 #
 
-## ``
-
-gertgkerjgb
-
 ### Crédits & Partenaires
 
 ![Partie 1 du mur de crédits & partenaires](./media/mur_credit_partie1_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du mur des crédits et partenaires de l'expositions`
+###### `Photo de Philippe La Brèque, de la partie 1 du mur des crédits et partenaires de l'expositions`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
+
+
+![Partie 2 du mur de crédits & partenaires](./media/mur_credit_partie2_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la partie 2 du mur des crédits et partenaires de l'expositions`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+![Partie 3 du mur de crédits & partenaires](./media/mur_credit_partie3_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la partie 3 du mur des crédits et partenaires de l'expositions`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+![Partie 4 du mur de crédits & partenaires](./media/mur_credit_partie4_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la partie 4 du mur des crédits et partenaires de l'expositions`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+
+
+
+
+
 
 ![Oeuvre vue de côté](./media/superposition_2_projection_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation de côté. (où l'on observe les 2 projections ainsi qu'un des deux projecteurs dans la salle)`
@@ -118,7 +135,7 @@ Suite à la lecture du mur de présentation du dispositif qui se trouve à l'acc
 
 ### `Appréciation de l'oeuvre`
 
-`Intrigué` par le `corridor` qui me parut `presque vide`, j'étais déjà `enthousiaste` à l'idée de découvrir `une oeuvre donc j'ignorai l'objectif`. Une fois entré dans la `seconde pièce`, j'ai compris que des `bancs` m'attendaient afin que je puisse contempler les `2 vidéos saccadantes qui attiraient mon œil`. Après quelques minutes d'observation, j'ai trouvé la réponse à mon intrigue. L'objectif était d'`observer la superposition des deux vidéos` de façon à les visionner en `harmonie décalée` tout en `suscitant le plus de sens du corps humain possible`. L'`ingéniosité` de cette `technique` est, pour moi, `vraiment impressionnante` et `preuve du génie humain`.
+
 
 
 
