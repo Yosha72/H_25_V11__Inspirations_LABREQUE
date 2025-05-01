@@ -57,6 +57,7 @@ Pour résumer `le texte du mur de présentation de l'oeuvre présenté ci-haut`,
   - [ ] `1 Herse` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
   - [ ] `1 Tapis` --> Pour réduire la résonance du son dans la salle
   - [ ] `1 multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
+  - [ ] `Courant` Pour alimenter l'oeuvre en énergie
 
 
 
