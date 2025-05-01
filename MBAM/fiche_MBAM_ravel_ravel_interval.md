@@ -101,5 +101,5 @@ Suite à la lecture du mur de présentation du dispositif qui se trouve à l'acc
 
 ### `Appréciation de l'oeuvre`
 
-
+`Intrigué` par le `corridor` qui me parut `presque vide`, j'étais déjà `enthousiaste` à l'idée de découvrir `une oeuvre donc j'ignorai l'objectif`. Une fois entré dans la `seconde pièce`, j'ai compris que des `bancs` m'attendaient afin que je puisse contempler `2 vidéos saccadantes qui attiraient mon œil`.
 
