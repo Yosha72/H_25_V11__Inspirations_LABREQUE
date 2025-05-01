@@ -37,6 +37,13 @@
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
+![Étapes de l'évolution de l'expérience](./media/etape_experience_vr_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la station de casque VR de l'exposition (est aussi le point de départ de l'expérience)`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+
+
 #
 
 ## Crédits & Partenaires
