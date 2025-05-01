@@ -42,7 +42,10 @@
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
+![Salle de l'expérience](./media/salle_experience_vr_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la salle où des points de repères sont visible (comme les X)`
 
+###### Source: (Téléphone portable de Philippe La Brèque)
 
 #
 
