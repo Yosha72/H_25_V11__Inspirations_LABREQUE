@@ -32,13 +32,15 @@
 ## Présentation de l'expérience
 
 
-![Station de départ de l'expérience_ avec les casques VR](./media/depart_station_casque_vr_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, de la station de casque VR de l'exposition (est aussi le point de départ de l'expérience)`
 
-###### Source: (Téléphone portable de Philippe La Brèque)
 
 ![Étapes de l'évolution de l'expérience](./media/etape_experience_vr_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, des ères géologiques importante présenter dans les casques VR (étapes du scénario de l'expérience projèté)`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+![Station de départ de l'expérience_ avec les casques VR](./media/depart_station_casque_vr_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, de la station de casque VR de l'exposition (est aussi le point de départ de l'expérience)`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
@@ -83,7 +85,7 @@
 - Composantes de l'exposition
   - [ ] `Les nombreux casques de réalité virtuelle` --> Présentent le contenu 3D immersif ainsi que le son
   - [ ] `Les murs temporaires` --> Délimitent la zone où peut être projeté le contenu dans les casques
-  - [ ] `` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
+  - [ ] `1 écran` --> Pour la capsule vidéo d'introduction et d'avertissement avant le début de l'expérience
   - [ ] `Les nombreux repères sur l'ensemble de la pièce` --> Pour guider les capteurs des casques et leurs utilisateurs
   - [ ] `Une multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
   - [ ] `Courant` Pour alimenter l'exposition en énergie
