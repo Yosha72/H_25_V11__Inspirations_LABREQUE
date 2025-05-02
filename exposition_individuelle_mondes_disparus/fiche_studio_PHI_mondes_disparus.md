@@ -103,7 +103,7 @@
 
 ### `Appréciation de l'oeuvre`
 
-
+Malgré les nombreux moments de déséquilibre, d'hésitation et de vertige, mon expérience de l'exposition était réellement mémorable. Surtout grâce au contenu vraiment réaliste, aux interactions possibles avec l'environnement faunique et sous-marin généré par les développeurs, mais aussi grâce au scénario basé sur de vraies recherches et moments de l'histoire.
 
 
 
