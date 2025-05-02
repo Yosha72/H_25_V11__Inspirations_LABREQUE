@@ -2,6 +2,9 @@
 
 # Visite et expérience de l'exposition `Mondes Disparus` du `Studio PHI` à `Montréal`
 
+#### Lien du site officiel de l'exposition : https://mondesdisparusexperience.com/
+#
+
 ![façade intérieur de l'exposition](./media/facade_interieur_entree_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, du mur d'accueil de l'exposition`
 
@@ -31,6 +34,8 @@
 
 ## Présentation de l'expérience
 
+
+`Mondes disparus` est 
 
 
 
