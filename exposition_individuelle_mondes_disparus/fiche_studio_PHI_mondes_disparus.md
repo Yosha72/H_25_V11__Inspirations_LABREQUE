@@ -66,8 +66,15 @@
 ###### `Photo de Philippe La Brèque, de la partie 3 du mur des crédits et partenaires de l'expositions`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
+
 ![Partie 4 du mur de crédits & partenaires](./media/mur_credit_partie4_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, de la partie 4 du mur des crédits et partenaires de l'expositions`
+
+###### Source: (Téléphone portable de Philippe La Brèque)
+
+
+![Partenaire éducatif](./media/partenaire_educatif_photo_PLB.jpg)
+###### `Photo de Philippe La Brèque, du partenaire éducatif de l'expositions`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
