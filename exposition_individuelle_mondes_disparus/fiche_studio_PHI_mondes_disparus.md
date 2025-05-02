@@ -35,8 +35,7 @@
 ## Présentation de l'expérience
 
 
-`Mondes disparus` est une exposition présentée sous la forme d'une expérience immersive de réalité virtuelle. C'est-à-dire qu'un monde digital nous est présenté à l'intérieur d'un casque de VR qui nous fait vivre une histoire. Celle des ères géologiques. Avant de débuter l'aventure, une capsule vidéo d'un aperçu du déroulement de l'expérience et du bon fonctionnement de celle-ci joue en boucle sur un écran.
-
+`Mondes disparus` est une exposition présentée sous la forme d'une expérience immersive de réalité virtuelle. C'est-à-dire qu'un monde digital nous est présenté à l'intérieur d'un casque de VR qui nous fait vivre une histoire. Celle des ères géologiques. Avant de débuter l'aventure, une capsule vidéo d'un aperçu du déroulement de l'expérience et du bon fonctionnement de celle-ci joue en boucle sur un écran. Par la suite, les casques ainsi que les explications sont expliqués pour assurer une sécurité pour tous. De plus, des repères sur les murs, membres du personnel et détecteurs intégrés à l'équipement sont présents pour diriger le chemin des gens dans la pièce en même temps que l'histoire. Le scénario est fondé sur les différentes époques (ères) géologiques qui se sont passées en Amérique du Nord.
 
 ![Étapes de l'évolution de l'expérience](./media/etape_experience_vr_photo_PLB.jpg)
 ###### `Photo de Philippe La Brèque, des ères géologiques importante présenter dans les casques VR (étapes du scénario de l'expérience projèté)`
