@@ -92,6 +92,7 @@
   - [ ] `Les nombreux repères sur l'ensemble de la pièce` --> Pour guider les capteurs des casques et leurs utilisateurs
   - [ ] `Une multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
   - [ ] `Courant` --> Pour alimenter l'exposition en énergie
+  - [ ] `Du personnel` --> Pour la supervision et la surveillance de l'expérience des visiteurs
 
 
 
