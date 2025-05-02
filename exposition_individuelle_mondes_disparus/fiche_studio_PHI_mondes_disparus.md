@@ -80,9 +80,7 @@
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
-#
-
-- Composantes de l'exposition
+# Composantes de l'exposition
   - [ ] `Les nombreux casques de réalité virtuelle` --> Présentent le contenu 3D immersif ainsi que le son
   - [ ] `Les murs temporaires` --> Délimitent la zone où peut être projeté le contenu dans les casques
   - [ ] `1 écran` --> Pour la capsule vidéo d'introduction et d'avertissement avant le début de l'expérience
