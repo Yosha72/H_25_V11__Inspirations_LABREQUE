@@ -9,7 +9,7 @@
 
 
 ![façade exterieur de l'exposition](./media/facade_exterieur_entree_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, de la façade extérieur du studio PHI`
+###### `Photo de Philippe La Brèque, de la façade extérieur du studio PHI (porte d'entrée pour l'exposition)`
 
 ###### Source: (Téléphone portable de Philippe La Brèque)
 
