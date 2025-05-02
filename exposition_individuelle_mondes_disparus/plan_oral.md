@@ -10,7 +10,7 @@ Objectif --> Expérimentation VR
 - Expérience immersive --> Réalité virtuelle
 
 
-### Dév
+### Développement
 
 - Expérience & composantes
 - Fil d'attente
@@ -22,8 +22,10 @@ Objectif --> Expérimentation VR
 - Espace ouvert
 - Contraire à RRI --> Mobilité, liberté, vibrant
 
+### Conclusion
+
 - Rappel
-- 
+- amélioration capacité de compréhension + adaptation au temps --> heures de travail vs apprentissages
  
 
 
