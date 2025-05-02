@@ -80,35 +80,15 @@
 
 #
 
-
-
-
-
-
-
-![Oeuvre vue de côté](./media/superposition_2_projection_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du résultat de l'oeuvre dans l'angle d'observation de côté. (où l'on observe les 2 projections ainsi qu'un des deux projecteurs dans la salle)`
-
-###### Source: (Téléphone portable de Philippe La Brèque)
-
-![Projecteur de la projection principale](./media/projecteur_photo_PLB.jpg)
-###### `Photo de Philippe La Brèque, du projecteur de la projection principale`
-
-###### Source: (Téléphone portable de Philippe La Brèque)
-
-
-#
-
-
 - Composantes de l'oeuvre
-  - [ ] `` --> Projettent les vidéos sur les toiles
+  - [ ] `Les nombreux casques de réalité virtuelle` --> Présenttent le contenu 3D immersif
   - [ ] `` --> Délimitent la zone où sont projetées les vidéos
   - [ ] `` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
   - [ ] `` --> Pour diffuser différentes pistes audio en spatialisation
   - [ ] `` --> Afin de guider
   - [ ] `` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
   - [ ] `` --> Pour réduire la résonance du son dans la salle
-  - [ ] `1 multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
+  - [ ] `Une multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
   - [ ] `Courant` Pour alimenter l'exposition en énergie
 
 
