@@ -80,14 +80,11 @@
 
 #
 
-- Composantes de l'oeuvre
-  - [ ] `Les nombreux casques de réalité virtuelle` --> Présenttent le contenu 3D immersif
+- Composantes de l'exposition
+  - [ ] `Les nombreux casques de réalité virtuelle` --> Présentent le contenu 3D immersif ainsi que le son
   - [ ] `` --> Délimitent la zone où sont projetées les vidéos
   - [ ] `` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
-  - [ ] `` --> Pour diffuser différentes pistes audio en spatialisation
-  - [ ] `` --> Afin de guider
-  - [ ] `` --> Structure qui supporte les composantes de l'oeuvre, sauf les bancs
-  - [ ] `` --> Pour réduire la résonance du son dans la salle
+  - [ ] `Les nombreux repères sur l'ensemble de la pièce` --> Pour guider les capteurs des casques et leurs utilisateurs
   - [ ] `Une multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
   - [ ] `Courant` Pour alimenter l'exposition en énergie
 
