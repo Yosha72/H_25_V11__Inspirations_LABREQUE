@@ -82,7 +82,7 @@
 
 - Composantes de l'exposition
   - [ ] `Les nombreux casques de réalité virtuelle` --> Présentent le contenu 3D immersif ainsi que le son
-  - [ ] `` --> Délimitent la zone où sont projetées les vidéos
+  - [ ] `Les murs temporaires` --> Délimitent la zone où peut être projeté le contenu dans les casques
   - [ ] `` --> Pour que les spectateurs puissent s'installer confortablement dans la salle
   - [ ] `Les nombreux repères sur l'ensemble de la pièce` --> Pour guider les capteurs des casques et leurs utilisateurs
   - [ ] `Une multitude de câbles et connecteurs` --> Afin de garantir le bon fonctionnement des composants électroniques
