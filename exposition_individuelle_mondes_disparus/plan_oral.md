@@ -9,5 +9,8 @@
 - Fil d'attente
 - 45 minutes
 - Grille rouge
+- Espace ouvert
+- Contraire à RRI --> Mobilité
+ 
 
 
